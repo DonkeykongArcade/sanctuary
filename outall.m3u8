@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="ABC.NEWS.us" tvg-name="ABC USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s113380_h15_ab.png" group-title="USA", ABC USA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://zekonew.newkso.ru/zeko/premium51/mono.m3u8|Referer=https%3A%2F%2Fforcedtoplay.xyz/%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36&Origin=https%3A%2F%2Fforcedtoplay.xyz/
+https://zekonew.newkso.ru/zeko/premium51/mono.m3u8|Referer=https%3A%2F%2Fforcedtoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36&Origin=https%3A%2F%2Fforcedtoplay.xyz
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10035_h15_ab.png" group-title="USA", A&E USA
 #KODIPROP:inputstream.adaptive.license_key={"Referer":"https://daddylive.dad/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","Origin":"https://daddylive.dad"}
 https://zekonew.newkso.ru/zeko/premium302/mono.m3u8
