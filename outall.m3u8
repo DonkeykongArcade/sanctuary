@@ -65,6 +65,8 @@ https://nfsnew.newkso.ru/nfs/premium838/mono.m3u8|Referer=https%3A%2F%2Fforcedto
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.USA.HD.us" tvg-name="Crime+ Investigation USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s61469_h15_ab.png" group-title="USA", Crime+ Investigation USA
 https://dokko1new.newkso.ru/dokko1/premium669/mono.m3u8|Referer=https%3A%2F%2Fforcedtoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36&Origin=https%3A%2F%2Fforcedtoplay.xyz
 #EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="Comet USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s97051_h15_ab.png" group-title="USA", Comet USA
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:http-reconnect=true
 https://nfsnew.newkso.ru/nfs/premium696/mono.m3u8|Referer=https%3A%2F%2Fforcedtoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0%29%20Gecko%2F20100101%20Firefox%2F138.0&Origin=https%3A%2F%2Fforcedtoplay.xyz
 #EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-name="Cooking Channel USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s30156_h15_aa.png" group-title="USA", Cooking Channel USA
 https://dokko1new.newkso.ru/dokko1/premium697/mono.m3u8|Referer=https%3A%2F%2Fforcedtoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36&Origin=https%3A%2F%2Fforcedtoplay.xyz
