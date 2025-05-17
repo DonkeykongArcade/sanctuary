@@ -1,8 +1,5 @@
 #EXTINF:-1 tvg-id="ABC.NEWS.us" tvg-name="ABC USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s113380_h15_ab.png" group-title="USA", ABC USA
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.mime_type=application/vnd.apple.mpegurl
-https://zekonew.newkso.ru/zeko/premium51/mono.m3u8|Referer=https://alldownplay.xyz/&Origin=https://alldownplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22ABC+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22ABC+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-ABC+USA.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22ABC+USA%22%7D
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10035_h15_ab.png" group-title="USA", A&E USA
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
