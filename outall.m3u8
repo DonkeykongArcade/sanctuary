@@ -4,10 +4,11 @@
 #KODIPROP:inputstream.ffmpegdirect.mime_type=application/vnd.apple.mpegurl
 https://zekonew.newkso.ru/zeko/premium51/mono.m3u8|Referer=https://alldownplay.xyz/&Origin=https://alldownplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10035_h15_ab.png" group-title="USA", A&E USA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://zekonew.newkso.ru/zeko/premium302/mono.m3u8|Connection=Keep-Alive&Accept=%2A%2F%2A&accept-language=en-US%2Cen%3Bq%3D0.9%2Cde-DE%3Bq%3D0.8%2Cde%3Bq%3D0.7&Referer=https%3A%2F%2Fforcedtoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36&Origin=https%3A%2F%2Fforcedtoplay.xyz
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+https://zekonew.newkso.ru/zeko/premium302/mono.m3u8|Referer=https://alldownplay.xyz/&Origin=https://alldownplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10021_h15_ab.png" group-title="USA", AMC USA
 https://nfsnew.newkso.ru/nfs/premium303/mono.m3u8|Referer=https%3A%2F%2Fforcedtoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36&Origin=https%3A%2F%2Fforcedtoplay.xyz
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" group-title="USA", Animal Planet
@@ -69,9 +70,10 @@ https://nfsnew.newkso.ru/nfs/premium838/mono.m3u8|Referer=https%3A%2F%2Fforcedto
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.USA.HD.us" tvg-name="Crime+ Investigation USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s61469_h15_ab.png" group-title="USA", Crime+ Investigation USA
 https://dokko1new.newkso.ru/dokko1/premium669/mono.m3u8|Referer=https%3A%2F%2Fforcedtoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36&Origin=https%3A%2F%2Fforcedtoplay.xyz
 #EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="Comet USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s97051_h15_ab.png" group-title="USA", Comet USA
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:inputstream.ffmpegdirect.mime_type=application/vnd.apple.mpegurl
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 https://nfsnew.newkso.ru/nfs/premium696/mono.m3u8|Referer=https://forcedtoplay.xyz/&Origin=https://forcedtoplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-name="Cooking Channel USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s30156_h15_aa.png" group-title="USA", Cooking Channel USA
 https://dokko1new.newkso.ru/dokko1/premium697/mono.m3u8|Referer=https%3A%2F%2Fforcedtoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36&Origin=https%3A%2F%2Fforcedtoplay.xyz
