@@ -16,7 +16,7 @@ https://zekonew.newkso.ru/zeko/premium302/mono.m3u8|Referer=https://alldownplay.
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 https://nfsnew.newkso.ru/nfs/premium303/mono.m3u8|Referer=https://alldownplay.xyz/&Origin=https://alldownplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" group-title="USA", Animal Planet
-plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A%2B%22item%22%2C%2B%22title%22%3A%2B%22Animal%2BPlanet%22%2C%2B%22link%22%3A%2B%22%5B%5B%5C%22Animal%2BPlanet%5C%22%2C%2B%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-304.php%5C%22%5D%5D%22%2C%2B%22summary%22%3A%2B%22Animal%2BPlanet%22%7D
+plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Animal+Planet%22%2C+%22link%22%3A+%22%5B%5B%5C%22Animal+Planet%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-304.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Animal+Planet%22%7D
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-name="Adult Swim" tvg-logo="https://www.adultswim.com/img/as-logo.svg" group-title="USA", Adult Swim
 https://ddy6new.newkso.ru/ddy6/premium295/mono.m3u8|Referer=https%3A%2F%2Fforcedtoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36&Origin=https%3A%2F%2Fforcedtoplay.xyz
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte DE" tvg-logo="https://images.tvtoday.de/sender/small/arte.png" group-title="GERMAN", Arte DE
