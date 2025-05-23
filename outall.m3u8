@@ -399,7 +399,7 @@ plugin://plugin.video.vavooto/?name=JUKEBOX
 #EXTINF:-1 tvg-id="NICKJ" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1407.png",Junior
 plugin://plugin.video.vavooto/?name=JUNIOR
 #EXTINF:-1 tvg-id="K1" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
-https://ddy6new.iosplayer.ru/ddy6/premium731/mono.m3u8|Referer=https%3A%2F%2Filovetoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Android%209%3B%20Tablet%3B%20rv%3A62.0%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F72.0.1388.65%20Safari%2F537.36&Origin=https%3A%2F%2Filovetoplay.xyz
+plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22K1%22%2C+%22link%22%3A+%22%5B%5B%5C%22K1%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-731.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22K1%22%7D
 #EXTINF:-1 tvg-id="K1CLA" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png",Kabel 1 Classics
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
 #EXTINF:-1 tvg-id="K1DOKU" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png",Kabel 1 Doku
@@ -439,7 +439,7 @@ plugin://plugin.video.vavooto/?name=ORF+SPORT
 #EXTINF:-1 tvg-id="PHOENIX" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png",PHOENIX
 plugin://plugin.video.vavooto/?name=PHOENIX
 #EXTINF:-1 tvg-id="PRO7" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
-https://ddy6new.iosplayer.ru/ddy6/premium730/mono.m3u8|Referer=https%3A%2F%2Filovetoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Android%209%3B%20Tablet%3B%20rv%3A62.0%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F72.0.1388.65%20Safari%2F537.36&Origin=https%3A%2F%2Filovetoplay.xyz
+plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22PRO7%22%2C+%22link%22%3A+%22%5B%5B%5C%22PRO7%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-730.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22PRO7%22%7D
 #EXTINF:-1 tvg-id="PRO7F" group-title="GERMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png",ProSieben Fun
 plugin://plugin.video.vavooto/?name=PRO+7+FUN
 #EXTINF:-1 tvg-id="PRO7M" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png",ProSieben MAXX
@@ -469,7 +469,7 @@ plugin://plugin.video.vavooto/?name=RTL+PASSION
 #EXTINF:-1 tvg-id="RTLPL" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png",RTL up
 plugin://plugin.video.vavooto/?name=RTL+UP
 #EXTINF:-1 tvg-id="SAT1" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1
-https://ddy6new.iosplayer.ru/ddy6/premium729/mono.m3u8|Referer=https%3A%2F%2Filovetoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Android%209%3B%20Tablet%3B%20rv%3A62.0%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F72.0.1388.65%20Safari%2F537.36&Origin=https%3A%2F%2Filovetoplay.xyz
+plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22SAT1%22%2C+%22link%22%3A+%22%5B%5B%5C%22SAT1%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-729.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22SAT1%22%7D
 #EXTINF:-1 tvg-id="SAT1E" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1042.png",Sat 1 Emotions
 plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
 #EXTINF:-1 tvg-id="SAT1G" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/956.png",Sat 1 Gold
@@ -479,7 +479,7 @@ plugin://plugin.video.vavooto/?name=SERVUS+TV
 #EXTINF:-1 tvg-id="SILVE" group-title="GERMAN" tvg-logo="https://images.waipu.tv/api/channels/SILVERLINE/logosamsungsd.png?width=256&height=256",Silverline
 plugin://plugin.video.vavooto/?name=SILVERLINE
 #EXTINF:-1 tvg-id="SIXX" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/942.png",Sixx
-https://ddy6new.iosplayer.ru/ddy6/premium732/mono.m3u8|Referer=https%3A%2F%2Filovetoplay.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Android%209%3B%20Tablet%3B%20rv%3A62.0%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F72.0.1388.65%20Safari%2F537.36&Origin=https%3A%2F%2Filovetoplay.xyz
+plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22SIXX%22%2C+%22link%22%3A+%22%5B%5B%5C%22SIXX%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-732.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22SIXX%22%7D
 #EXTINF:-1 tvg-id="SKYAT" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="SKY-A" group-title="GERMAN" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/456.png",Sky Cinema Action
