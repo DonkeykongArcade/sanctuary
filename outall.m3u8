@@ -119,7 +119,7 @@ plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Grit+Channel%22%2C+%22link%22%3A+%22%5B%5B%5C%22Grit+Channel%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-752.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Grit+Channel%22%7D
 #EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.HD.ca" tvg-name="Global CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73281_h15_ab.png" group-title="CANADA", Global CA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Global+CA%22%2C+%22link%22%3A+%22%5B%5B%5C%22Global+CA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-836.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Global+CA%22%7D
-#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="The Hallmark Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s105723_h15_ab.png" group-title="USA", The Hallmark Channel
+#EXTINF:-1 tvg-id="Hallmark.-.Eastern.Feed.us" tvg-name="The Hallmark Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s105723_h15_ab.png" group-title="USA", The Hallmark Channel
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22The+Hallmark+Channel%22%2C+%22link%22%3A+%22%5B%5B%5C%22The+Hallmark+Channel%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-320.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22The+Hallmark+Channel%22%7D
 #EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Movies & Mysterie" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s46710_h15_ab.png" group-title="USA", Hallmark Movies & Mysterie
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Hallmark+Movies+&+Mysterie%22%2C+%22link%22%3A+%22%5B%5B%5C%22Hallmark+Movies+&+Mysterie%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-296.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Hallmark+Movies+&+Mysterie%22%7D
@@ -555,3 +555,4 @@ plugin://plugin.video.vavooto/?name=ZDF
 plugin://plugin.video.vavooto/?name=ZDF+INFO
 #EXTINF:-1 tvg-id="659" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/zdfneo.png",ZDF neo
 plugin://plugin.video.vavooto/?name=ZDF+NEO
+
