@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:0 tvg-id="90s-kids-tv" tvg-logo="http://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png" group-title="Kids", 90's Kids
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=cf893cf4-cf67-f8c8-2af6-9e87ad825f12&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&marketingRegion=US&sid=28afe875f5fe&userId=
-#EXTINF:-1 tvg-id="ABC.NEWS.us" tvg-name="ABC USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s113380_h15_ab.png" group-title="USA", ABC USA
+#EXTINF:-1 tvg-id="ABC.NEWS.us" tvg-name="ABC USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-news-us.png" group-title="USA", ABC USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22ABC+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22ABC+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-51.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22ABC+USA%22%7D
-#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10035_h15_ab.png" group-title="USA", A&E USA
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png" group-title="USA", A&E USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22A&E+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22A&E+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-302.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22A&E+USA%22%7D
-#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10021_h15_ab.png" group-title="USA", AMC USA
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png" group-title="USA", AMC USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22AMC+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22AMC+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-303.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22AMC+USA%22%7D
-#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" group-title="USA", Animal Planet
+#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png" group-title="USA", Animal Planet
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Animal+Planet%22%2C+%22link%22%3A+%22%5B%5B%5C%22Animal+Planet%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-304.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Animal+Planet%22%7D
-#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-name="Adult Swim" tvg-logo="https://www.adultswim.com/img/as-logo.svg" group-title="USA", Adult Swim
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-name="Adult Swim" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/adult-swim-us.png" group-title="USA", Adult Swim
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Adult+Swim%22%2C+%22link%22%3A+%22%5B%5B%5C%22Adult+Swim%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-295.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Adult+Swim%22%7D
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte DE" tvg-logo="https://images.tvtoday.de/sender/small/arte.png" group-title="GERMAN", Arte DE
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Arte+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22Arte+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-725.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Arte+DE%22%7D
-#EXTINF:-1 tvg-id="AXS.TV.USA.HD.us" tvg-name="AXS TV USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s28506_h15_ab.png" group-title="USA", AXS TV USA
+#EXTINF:-1 tvg-id="AXS.TV.USA.HD.us" tvg-name="AXS TV USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/axs-tv-us.png" group-title="USA", AXS TV USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22AXS+TV+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22AXS+TV+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-742.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22AXS+TV+USA%22%7D
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABCNY USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" group-title="USA", ABCNY USA
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABCNY USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-us.png" group-title="USA", ABCNY USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22ABCNY+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22ABCNY+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-766.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22ABCNY+USA%22%7D
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s21883_h15_ab.png" group-title="USA", Boomerang
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png" group-title="USA", Boomerang
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Boomerang%22%2C+%22link%22%3A+%22%5B%5B%5C%22Boomerang%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-648.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Boomerang%22%7D
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen DE" tvg-logo="https://images.tvtoday.de/sender/small/br.png" group-title="GERMAN", BR Fernsehen DE
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22BR+Fernsehen+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22BR+Fernsehen+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-737.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22BR+Fernsehen+DE%22%7D
-#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC America (BBCA)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18332_h15_aa.png" group-title="USA", BBC America (BBCA)
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC America (BBCA)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png" group-title="USA", BBC America (BBCA)
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22BBC+America+(BBCA)%22%2C+%22link%22%3A+%22%5B%5B%5C%22BBC+America+(BBCA)%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-305.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22BBC+America+(BBCA)%22%7D
-#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10051_h15_ad.png" group-title="USA", BET USA
+#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png" group-title="USA", BET USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22BET+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22BET+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-306.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22BET+USA%22%7D
-#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-name="Bravo USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10057_h15_ab.png" group-title="USA", Bravo USA
+#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-name="Bravo USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png" group-title="USA", Bravo USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Bravo+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22Bravo+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-307.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Bravo+USA%22%7D
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News Channel HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" group-title="UK", BBC News Channel HD
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22BBC+News+Channel+HD%22%2C+%22link%22%3A+%22%5B%5B%5C%22BBC+News+Channel+HD%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-349.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22BBC+News+Channel+HD%22%7D
@@ -41,35 +41,35 @@ plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Channel+4+UK%22%2C+%22link%22%3A+%22%5B%5B%5C%22Channel+4+UK%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-354.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Channel+4+UK%22%7D
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="Channel 5 UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4058.png" group-title="UK", Channel 5 UK
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Channel+5+UK%22%2C+%22link%22%3A+%22%5B%5B%5C%22Channel+5+UK%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-355.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Channel+5+UK%22%7D
-#EXTINF:-1 tvg-id="Cozi.TV.us" tvg-name="COZI TV USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s78851_h15_ab.png" group-title="USA", COZI TV USA
+#EXTINF:-1 tvg-id="Cozi.TV.us" tvg-name="COZI TV USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png" group-title="USA", COZI TV USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22COZI+TV+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22COZI+TV+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-748.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22COZI+TV+USA%22%7D
-#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10138_h15_ab.png" group-title="USA", CMT USA
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cmt-us.png" group-title="USA", CMT USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22CMT+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22CMT+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-647.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22CMT+USA%22%7D
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CBS USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png" group-title="USA", CBS USA
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CBS USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-news-us.png" group-title="USA", CBS USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22CBS+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22CBS+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-52.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22CBS+USA%22%7D
-#EXTINF:-1 tvg-id="CW.Plus.East.us" tvg-name="CW USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18749_h15_ad.png" group-title="USA", CW USA
+#EXTINF:-1 tvg-id="CW.Plus.East.us" tvg-name="CW USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png" group-title="USA", CW USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22CW+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22CW+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-300.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22CW+USA%22%7D
-#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10139_h15_ae.png" group-title="USA", CNBC USA
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-us.png" group-title="USA", CNBC USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22CNBC+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22CNBC+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-309.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22CNBC+USA%22%7D
-#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10149_h15_ab.png" group-title="USA", Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-us.png" group-title="USA", Comedy Central
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Comedy+Central%22%2C+%22link%22%3A+%22%5B%5B%5C%22Comedy+Central%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-310.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Comedy+Central%22%7D
-#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="Cartoon Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png" group-title="USA", Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="Cartoon Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png" group-title="USA", Cartoon Network
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Cartoon+Network%22%2C+%22link%22%3A+%22%5B%5B%5C%22Cartoon+Network%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-339.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Cartoon+Network%22%7D
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10142_h15_aa.png" group-title="USA", CNN USA
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png" group-title="USA", CNN USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22CNN+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22CNN+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-345.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22CNN+USA%22%7D
-#EXTINF:-1 tvg-id="Cinemax.-.Eastern.HD.us" tvg-name="Cinemax USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s34933_h15_ab.png" group-title="USA", Cinemax USA
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.HD.us" tvg-name="Cinemax USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png" group-title="USA", Cinemax USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Cinemax+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22Cinemax+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-374.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Cinemax+USA%22%7D
 #EXTINF:-1 tvg-id="CTV.(CFTO).Toronto,.ON.HD.ca" tvg-name="CTV Canada" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CANADA", CTV Canada
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22CTV+Canada%22%2C+%22link%22%3A+%22%5B%5B%5C%22CTV+Canada%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-602.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22CTV+Canada%22%7D
 #EXTINF:-1 tvg-id="CTV2.Atlantic.Region.ca" tvg-name="CTV 2 Canada" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png" group-title="CANADA", CTV 2 Canada
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22CTV+2+Canada%22%2C+%22link%22%3A+%22%5B%5B%5C%22CTV+2+Canada%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-838.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22CTV+2+Canada%22%7D
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.USA.HD.us" tvg-name="Crime+ Investigation USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s61469_h15_ab.png" group-title="USA", Crime+ Investigation USA
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.USA.HD.us" tvg-name="Crime+ Investigation USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png" group-title="USA", Crime+ Investigation USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Crime++Investigation+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22Crime++Investigation+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-669.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Crime++Investigation+USA%22%7D
-#EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="Comet USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s97051_h15_ab.png" group-title="USA", Comet USA
+#EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="Comet USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png" group-title="USA", Comet USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Comet+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22Comet+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-696.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Comet+USA%22%7D
-#EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-name="Cooking Channel USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s30156_h15_aa.png" group-title="USA", Cooking Channel USA
+#EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-name="Cooking Channel USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png" group-title="USA", Cooking Channel USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Cooking+Channel+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22Cooking+Channel+USA%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-697.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Cooking+Channel+USA%22%7D
-#EXTINF:-1 tvg-id="CLEO.TV.us" tvg-name="Cleo TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s110289_h15_aa.png" group-title="USA", Cleo TV
+#EXTINF:-1 tvg-id="CLEO.TV.us" tvg-name="Cleo TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png" group-title="USA", Cleo TV
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Cleo+TV%22%2C+%22link%22%3A+%22%5B%5B%5C%22Cleo+TV%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-715.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Cleo+TV%22%7D
 #EXTINF:-1 tvg-id="CITY.Toronto,.ON.HD.ca" tvg-name="Citytv" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10125_h15_ab.png" group-title="CANADA", Citytv
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Citytv%22%2C+%22link%22%3A+%22%5B%5B%5C%22Citytv%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fcast%2Fstream-831.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Citytv%22%7D
@@ -557,6 +557,7 @@ plugin://plugin.video.vavooto/?name=ZDF
 plugin://plugin.video.vavooto/?name=ZDF+INFO
 #EXTINF:-1 tvg-id="659" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/zdfneo.png",ZDF neo
 plugin://plugin.video.vavooto/?name=ZDF+NEO
+
 
 
 
