@@ -723,14 +723,6 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65ef002b4e01740008d2d5c1&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=6470abe84cfc2c000884c867&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="140" tvg-id="5e7cb84a172a0f0007da69e4" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-name="Red Bull TV" , Red Bull TV
 plugin://slyguy.pluto.tv.provider/?_=play&id=5e7cb84a172a0f0007da69e4&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="160" tvg-id="630dd3b2605f140007e002f5" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png" tvg-name="Western" , Western
-plugin://slyguy.pluto.tv.provider/?_=play&id=630dd3b2605f140007e002f5&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="161" tvg-id="638f2bc7bc363100072f02dd" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" tvg-name="Rauchende Colts" , Rauchende Colts
-plugin://slyguy.pluto.tv.provider/?_=play&id=638f2bc7bc363100072f02dd&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="162" tvg-id="638f2983dcd9100008c2374d" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" tvg-name="Rawhide - Tausend Meilen Staub" , Rawhide - Tausend Meilen Staub
-plugin://slyguy.pluto.tv.provider/?_=play&id=638f2983dcd9100008c2374d&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="163" tvg-id="6270ea4345f5bc0007823048" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" tvg-name="Fury" , Fury
-plugin://slyguy.pluto.tv.provider/?_=play&id=6270ea4345f5bc0007823048&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="175" tvg-id="65a67d572fac9c000835eb3a" tvg-logo="https://images.pluto.tv/channels/65a67d572fac9c000835eb3a/colorLogoPNG.png" tvg-name="Moviepilot TV mit Pluto TV German" , Moviepilot TV mit Pluto TV German
 plugin://slyguy.pluto.tv.provider/?_=play&id=65a67d572fac9c000835eb3a&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="176" tvg-id="66337de656fc840008ff7a65" tvg-logo="https://images.pluto.tv/channels/66337de656fc840008ff7a65/colorLogoPNG.png" tvg-name="Kult Comedies" , Kult Comedies
@@ -1017,22 +1009,6 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=6197086891ddd4000739941a&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=5f77977bd924d80007eee60c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="780" tvg-id="5f36d726234ce10007784f2a" tvg-logo="https://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png" tvg-name="The Bob Ross Channel" , The Bob Ross Channel
 plugin://slyguy.pluto.tv.provider/?_=play&id=5f36d726234ce10007784f2a&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="791" tvg-id="5e8df4bc16e34700077e77d3" tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" tvg-name="Western TV" , Western TV
-plugin://slyguy.pluto.tv.provider/?_=play&id=5e8df4bc16e34700077e77d3&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="795" tvg-id="60f75771dfc72a00071fd0e0" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" tvg-name="Gunsmoke" , Gunsmoke
-plugin://slyguy.pluto.tv.provider/?_=play&id=60f75771dfc72a00071fd0e0&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="800" tvg-id="664e640a0120f40008be4582" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" tvg-name="The Wild Wild West" , The Wild Wild West
-plugin://slyguy.pluto.tv.provider/?_=play&id=664e640a0120f40008be4582&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="810" tvg-id="634f307c7a068e00072c9982" tvg-logo="https://images.pluto.tv/channels/634f307c7a068e00072c9982/colorLogoPNG_1731835685335.png" tvg-name="Rawhide" , Rawhide
-plugin://slyguy.pluto.tv.provider/?_=play&id=634f307c7a068e00072c9982&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="815" tvg-id="5e825550e758c700077b0aef" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" tvg-name="The Rifleman" , The Rifleman
-plugin://slyguy.pluto.tv.provider/?_=play&id=5e825550e758c700077b0aef&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="825" tvg-id="65a6dafb7bdc8d0008473c85" tvg-logo="https://images.pluto.tv/channels/65a6dafb7bdc8d0008473c85/colorLogoPNG.png" tvg-name="The Lone Ranger" , The Lone Ranger
-plugin://slyguy.pluto.tv.provider/?_=play&id=65a6dafb7bdc8d0008473c85&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="830" tvg-id="6661f88f3d173b000845958c" tvg-logo="https://images.pluto.tv/channels/6661f88f3d173b000845958c/colorLogoPNG.png" tvg-name="Wild West TV" , Wild West TV
-plugin://slyguy.pluto.tv.provider/?_=play&id=6661f88f3d173b000845958c&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="835" tvg-id="61f33318210549000806a530" tvg-logo="https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png" tvg-name="Classic Movie Westerns" , Classic Movie Westerns
-plugin://slyguy.pluto.tv.provider/?_=play&id=61f33318210549000806a530&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="840" tvg-id="5efbd39f8c4ce900075d7698" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" tvg-name="Star Trek" , Star Trek
 plugin://slyguy.pluto.tv.provider/?_=play&id=5efbd39f8c4ce900075d7698&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="850" tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" tvg-name="Star Trek Voyager" , Star Trek Voyager
@@ -1429,6 +1405,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="Retro Kid" , Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
