@@ -627,33 +627,33 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=5cb5d043a461406ffe3fb2de&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=6694ccaba3c41d0008d0e636&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="56" tvg-id="65819f14b9adc4000813ee39" tvg-logo="https://images.pluto.tv/channels/65819f14b9adc4000813ee39/colorLogoPNG.png" tvg-name="Familie Dr. Kleist" , Familie Dr. Kleist
 plugin://slyguy.pluto.tv.provider/?_=play&id=65819f14b9adc4000813ee39&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="57" tvg-id="67f68bd2135aeda9ddf0ef54" tvg-logo="https://images.pluto.tv/channels/67f68bd2135aeda9ddf0ef54/colorLogoPNG_1746816413112.png" tvg-name="Adult Animation" , Adult Animation
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="57" tvg-id="67f68bd2135aeda9ddf0ef54" tvg-logo="https://images.pluto.tv/channels/67f68bd2135aeda9ddf0ef54/colorLogoPNG_1746816413112.png" tvg-name="(Toons) Adult Animation" , (Toons) Adult Animation
 plugin://slyguy.pluto.tv.provider/?_=play&id=67f68bd2135aeda9ddf0ef54&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="65" tvg-id="67fe495d9ebfe4142424b7a7" tvg-logo="https://images.pluto.tv/channels/67fe495d9ebfe4142424b7a7/colorLogoPNG_1746817524304.png" tvg-name="Anime: Fantasy" , Anime: Fantasy
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="65" tvg-id="67fe495d9ebfe4142424b7a7" tvg-logo="https://images.pluto.tv/channels/67fe495d9ebfe4142424b7a7/colorLogoPNG_1746817524304.png" tvg-name="(Toons) Anime: Fantasy" , (Toons) Anime: Fantasy
 plugin://slyguy.pluto.tv.provider/?_=play&id=67fe495d9ebfe4142424b7a7&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="66" tvg-id="642d4493aa2d690008f0a03f" tvg-logo="https://images.pluto.tv/channels/642d4493aa2d690008f0a03f/colorLogoPNG.png" tvg-name="Yu-Gi-Oh!" , Yu-Gi-Oh!
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="66" tvg-id="642d4493aa2d690008f0a03f" tvg-logo="https://images.pluto.tv/channels/642d4493aa2d690008f0a03f/colorLogoPNG.png" tvg-name="(Toons) Yu-Gi-Oh!" , (Toons) Yu-Gi-Oh!
 plugin://slyguy.pluto.tv.provider/?_=play&id=642d4493aa2d690008f0a03f&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="67" tvg-id="65d5fc39a25d5e00082895c4" tvg-logo="https://images.pluto.tv/channels/65d5fc39a25d5e00082895c4/colorLogoPNG.png" tvg-name="Naruto" , Naruto
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="67" tvg-id="65d5fc39a25d5e00082895c4" tvg-logo="https://images.pluto.tv/channels/65d5fc39a25d5e00082895c4/colorLogoPNG.png" tvg-name="(Toons) Naruto" , (Toons) Naruto
 plugin://slyguy.pluto.tv.provider/?_=play&id=65d5fc39a25d5e00082895c4&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="68" tvg-id="659e598ab9adc4000843c574" tvg-logo="https://images.pluto.tv/channels/659e598ab9adc4000843c574/colorLogoPNG.png" tvg-name="AKIBA PASS TV Anime: Sport" , AKIBA PASS TV Anime: Sport
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="68" tvg-id="659e598ab9adc4000843c574" tvg-logo="https://images.pluto.tv/channels/659e598ab9adc4000843c574/colorLogoPNG.png" tvg-name="(Toons) AKIBA PASS TV Anime: Sport" , (Toons) AKIBA PASS TV Anime: Sport
 plugin://slyguy.pluto.tv.provider/?_=play&id=659e598ab9adc4000843c574&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="69" tvg-id="65a7d99f4a10d800086083a9" tvg-logo="https://images.pluto.tv/channels/65a7d99f4a10d800086083a9/colorLogoPNG.png" tvg-name="Assassination Classroom" , Assassination Classroom
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="69" tvg-id="65a7d99f4a10d800086083a9" tvg-logo="https://images.pluto.tv/channels/65a7d99f4a10d800086083a9/colorLogoPNG.png" tvg-name="(Toons) Assassination Classroom" , (Toons) Assassination Classroom
 plugin://slyguy.pluto.tv.provider/?_=play&id=65a7d99f4a10d800086083a9&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="70" tvg-id="608181d420fc8500075f612a" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png" tvg-name="Anime" , Anime
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="70" tvg-id="608181d420fc8500075f612a" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png" tvg-name="(Toons) Anime" , (Toons) Anime
 plugin://slyguy.pluto.tv.provider/?_=play&id=608181d420fc8500075f612a&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="71" tvg-id="60c716084d842c00085f6e64" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png" tvg-name="Comedy Central South Park" , Comedy Central South Park
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="71" tvg-id="60c716084d842c00085f6e64" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png" tvg-name="(Toons) Comedy Central South Park" , (Toons) Comedy Central South Park
 plugin://slyguy.pluto.tv.provider/?_=play&id=60c716084d842c00085f6e64&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="72" tvg-id="646b14747cb4b1000875724d" tvg-logo="https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png" tvg-name="South Park: Cartman Collection" , South Park: Cartman Collection
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="72" tvg-id="646b14747cb4b1000875724d" tvg-logo="https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png" tvg-name="(Toons) South Park: Cartman Collection" , (Toons) South Park: Cartman Collection
 plugin://slyguy.pluto.tv.provider/?_=play&id=646b14747cb4b1000875724d&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="73" tvg-id="646b1404ee6a2f00082b5d66" tvg-logo="https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png" tvg-name="South Park: Kenny Collection" , South Park: Kenny Collection
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="73" tvg-id="646b1404ee6a2f00082b5d66" tvg-logo="https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png" tvg-name="(Toons) South Park: Kenny Collection" , (Toons) South Park: Kenny Collection
 plugin://slyguy.pluto.tv.provider/?_=play&id=646b1404ee6a2f00082b5d66&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="74" tvg-id="646b14a0e94c3800082a8d3a" tvg-logo="https://images.pluto.tv/channels/646b14a0e94c3800082a8d3a/colorLogoPNG.png" tvg-name="South Park: Butters Collection" , South Park: Butters Collection
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="74" tvg-id="646b14a0e94c3800082a8d3a" tvg-logo="https://images.pluto.tv/channels/646b14a0e94c3800082a8d3a/colorLogoPNG.png" tvg-name="(Toons) South Park: Butters Collection" , (Toons) South Park: Butters Collection
 plugin://slyguy.pluto.tv.provider/?_=play&id=646b14a0e94c3800082a8d3a&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="75" tvg-id="646b1438e94c3800082a8cff" tvg-logo="https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png" tvg-name="South Park: Stan Collection" , South Park: Stan Collection
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="75" tvg-id="646b1438e94c3800082a8cff" tvg-logo="https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png" tvg-name="(Toons) South Park: Stan Collection" , (Toons) South Park: Stan Collection
 plugin://slyguy.pluto.tv.provider/?_=play&id=646b1438e94c3800082a8cff&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="76" tvg-id="646b14d0e1979c0008915a09" tvg-logo="https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png" tvg-name="South Park: Kyle Collection" , South Park: Kyle Collection
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="76" tvg-id="646b14d0e1979c0008915a09" tvg-logo="https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png" tvg-name="(Toons) South Park: Kyle Collection" , (Toons) South Park: Kyle Collection
 plugin://slyguy.pluto.tv.provider/?_=play&id=646b14d0e1979c0008915a09&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="77" tvg-id="646b150a15939400089e2702" tvg-logo="https://images.pluto.tv/channels/646b150a15939400089e2702/colorLogoPNG.png" tvg-name="South Park: Original Version" , South Park: Original Version
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="77" tvg-id="646b150a15939400089e2702" tvg-logo="https://images.pluto.tv/channels/646b150a15939400089e2702/colorLogoPNG.png" tvg-name="(Toons) South Park: Original Version" , (Toons) South Park: Original Version
 plugin://slyguy.pluto.tv.provider/?_=play&id=646b150a15939400089e2702&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="80" tvg-id="6152ee71bf99590007893a11" tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" tvg-name="Star Trek" , Star Trek
 plugin://slyguy.pluto.tv.provider/?_=play&id=6152ee71bf99590007893a11&_is_live=1&_noresume=.pvr
@@ -719,7 +719,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=661801e871e8c30008a73f7b&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=665f01b8a3865300086a233c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="128" tvg-id="65ef002b4e01740008d2d5c1" tvg-logo="https://images.pluto.tv/channels/65ef002b4e01740008d2d5c1/colorLogoPNG.png" tvg-name="PRIDEtv" , PRIDEtv
 plugin://slyguy.pluto.tv.provider/?_=play&id=65ef002b4e01740008d2d5c1&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="129" tvg-id="6470abe84cfc2c000884c867" tvg-logo="https://images.pluto.tv/channels/6470abe84cfc2c000884c867/colorLogoPNG.png" tvg-name="MTV Pride" , MTV Pride
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="129" tvg-id="6470abe84cfc2c000884c867" tvg-logo="https://images.pluto.tv/channels/6470abe84cfc2c000884c867/colorLogoPNG.png" tvg-name="(Music) MTV Pride" , (Music) MTV Pride
 plugin://slyguy.pluto.tv.provider/?_=play&id=6470abe84cfc2c000884c867&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="140" tvg-id="5e7cb84a172a0f0007da69e4" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-name="Red Bull TV" , Red Bull TV
 plugin://slyguy.pluto.tv.provider/?_=play&id=5e7cb84a172a0f0007da69e4&_is_live=1&_noresume=.pvr
@@ -739,33 +739,33 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=615c1e5ce3039400070a0547&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=65004605110545000842035d&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="190" tvg-id="62a0b2aff4cf470007e47e29" tvg-logo="https://images.pluto.tv/channels/62a0b2aff4cf470007e47e29/colorLogoPNG.png" tvg-name="Fluss-Monster" , Fluss-Monster
 plugin://slyguy.pluto.tv.provider/?_=play&id=62a0b2aff4cf470007e47e29&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="191" tvg-id="61409f8d6feb30000766b675" tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" tvg-name="Space" , Space
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="191" tvg-id="61409f8d6feb30000766b675" tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" tvg-name="(Docu) Space" , (Docu) Space
 plugin://slyguy.pluto.tv.provider/?_=play&id=61409f8d6feb30000766b675&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="192" tvg-id="65b923f90cb1a100088a03ab" tvg-logo="https://images.pluto.tv/channels/65b923f90cb1a100088a03ab/colorLogoPNG.png" tvg-name="Terra Mater WILD" , Terra Mater WILD
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="192" tvg-id="65b923f90cb1a100088a03ab" tvg-logo="https://images.pluto.tv/channels/65b923f90cb1a100088a03ab/colorLogoPNG.png" tvg-name="(Docu) Terra Mater WILD" , (Docu) Terra Mater WILD
 plugin://slyguy.pluto.tv.provider/?_=play&id=65b923f90cb1a100088a03ab&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="193" tvg-id="5d767ae7b456c8cf265ce922" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png" tvg-name="Animals" , Animals
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="193" tvg-id="5d767ae7b456c8cf265ce922" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png" tvg-name="(Docu) Animals" , (Docu) Animals
 plugin://slyguy.pluto.tv.provider/?_=play&id=5d767ae7b456c8cf265ce922&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="194" tvg-id="5be1c3f9851dd5632e2c91b2" tvg-logo="https://images.pluto.tv/channels/5be1c3f9851dd5632e2c91b2/colorLogoPNG.png" tvg-name="Nature" , Nature
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="194" tvg-id="5be1c3f9851dd5632e2c91b2" tvg-logo="https://images.pluto.tv/channels/5be1c3f9851dd5632e2c91b2/colorLogoPNG.png" tvg-name="(Docu) Nature" , (Docu) Nature
 plugin://slyguy.pluto.tv.provider/?_=play&id=5be1c3f9851dd5632e2c91b2&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="195" tvg-id="5ad9b8551b95267e225e59c1" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" tvg-name="Explore" , Explore
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="195" tvg-id="5ad9b8551b95267e225e59c1" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" tvg-name="(Docu) Explore" , (Docu) Explore
 plugin://slyguy.pluto.tv.provider/?_=play&id=5ad9b8551b95267e225e59c1&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="196" tvg-id="60080e8a4bf36000076a81b1" tvg-logo="https://images.pluto.tv/channels/60080e8a4bf36000076a81b1/colorLogoPNG.png" tvg-name="N24 Doku" , N24 Doku
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="196" tvg-id="60080e8a4bf36000076a81b1" tvg-logo="https://images.pluto.tv/channels/60080e8a4bf36000076a81b1/colorLogoPNG.png" tvg-name="(Docu) N24 Doku" , (Docu) N24 Doku
 plugin://slyguy.pluto.tv.provider/?_=play&id=60080e8a4bf36000076a81b1&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="197" tvg-id="5d767b1c126c65d0a307355f" tvg-logo="https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png" tvg-name="History" , History
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="197" tvg-id="5d767b1c126c65d0a307355f" tvg-logo="https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png" tvg-name="(Docu) History" , (Docu) History
 plugin://slyguy.pluto.tv.provider/?_=play&id=5d767b1c126c65d0a307355f&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="198" tvg-id="6576c20fb3801200084786c9" tvg-logo="https://images.pluto.tv/channels/6576c20fb3801200084786c9/colorLogoPNG_1753168639413.png" tvg-name="SPIEGEL TV" , SPIEGEL TV
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="198" tvg-id="6576c20fb3801200084786c9" tvg-logo="https://images.pluto.tv/channels/6576c20fb3801200084786c9/colorLogoPNG_1753168639413.png" tvg-name="(Docu) SPIEGEL TV" , (Docu) SPIEGEL TV
 plugin://slyguy.pluto.tv.provider/?_=play&id=6576c20fb3801200084786c9&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="199" tvg-id="65b9268fc798e800085add89" tvg-logo="https://images.pluto.tv/channels/65b9268fc798e800085add89/colorLogoPNG.png" tvg-name="SPIEGEL TV Konflikte" , SPIEGEL TV Konflikte
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="199" tvg-id="65b9268fc798e800085add89" tvg-logo="https://images.pluto.tv/channels/65b9268fc798e800085add89/colorLogoPNG.png" tvg-name="(Docu) SPIEGEL TV Konflikte" , (Docu) SPIEGEL TV Konflikte
 plugin://slyguy.pluto.tv.provider/?_=play&id=65b9268fc798e800085add89&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="201" tvg-id="617aad99b68ef100072608cd" tvg-logo="https://images.pluto.tv/channels/617aad99b68ef100072608cd/colorLogoPNG.png" tvg-name="Mystery" , Mystery
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="201" tvg-id="617aad99b68ef100072608cd" tvg-logo="https://images.pluto.tv/channels/617aad99b68ef100072608cd/colorLogoPNG.png" tvg-name="(Docu) Mystery" , (Docu) Mystery
 plugin://slyguy.pluto.tv.provider/?_=play&id=617aad99b68ef100072608cd&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="202" tvg-id="5d767b4889bca2ce7b73ef2e" tvg-logo="https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png" tvg-name="Science" , Science
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="202" tvg-id="5d767b4889bca2ce7b73ef2e" tvg-logo="https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png" tvg-name="(Docu) Science" , (Docu) Science
 plugin://slyguy.pluto.tv.provider/?_=play&id=5d767b4889bca2ce7b73ef2e&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="203" tvg-id="663a15d7cb3ea10008edac88" tvg-logo="https://images.pluto.tv/channels/663a15d7cb3ea10008edac88/colorLogoPNG.png" tvg-name="Farmland TV" , Farmland TV
 plugin://slyguy.pluto.tv.provider/?_=play&id=663a15d7cb3ea10008edac88&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="204" tvg-id="61b33085897b9d000702b72e" tvg-logo="https://images.pluto.tv/channels/61b33085897b9d000702b72e/colorLogoPNG.png" tvg-name="Just.fishing" , Just.fishing
 plugin://slyguy.pluto.tv.provider/?_=play&id=61b33085897b9d000702b72e&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="231" tvg-id="67a2367e9a300a00086f2688" tvg-logo="https://images.pluto.tv/channels/67a2367e9a300a00086f2688/colorLogoPNG.png" tvg-name="Jackie Chan Adventures" , Jackie Chan Adventures
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="231" tvg-id="67a2367e9a300a00086f2688" tvg-logo="https://images.pluto.tv/channels/67a2367e9a300a00086f2688/colorLogoPNG.png" tvg-name="(Toons) Jackie Chan Adventures" , (Toons) Jackie Chan Adventures
 plugin://slyguy.pluto.tv.provider/?_=play&id=67a2367e9a300a00086f2688&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="232" tvg-id="634fe5afece2e60007c9d8b8" tvg-logo="https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png" tvg-name="Mission Impossible" , Mission Impossible
 plugin://slyguy.pluto.tv.provider/?_=play&id=634fe5afece2e60007c9d8b8&_is_live=1&_noresume=.pvr
@@ -805,55 +805,55 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=642d7e029189ce0008958af5&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64be778c40962900080b6461&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="266" tvg-id="5f98487036af340008da1e37" tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" tvg-name="Paranormal" , Paranormal
 plugin://slyguy.pluto.tv.provider/?_=play&id=5f98487036af340008da1e37&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="270" tvg-id="65004cf398020f00084ca8bc" tvg-logo="https://images.pluto.tv/channels/65004cf398020f00084ca8bc/colorLogoPNG.png" tvg-name="Marco Polo TV" , Marco Polo TV
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="270" tvg-id="65004cf398020f00084ca8bc" tvg-logo="https://images.pluto.tv/channels/65004cf398020f00084ca8bc/colorLogoPNG.png" tvg-name="(Docu) Marco Polo TV" , (Docu) Marco Polo TV
 plugin://slyguy.pluto.tv.provider/?_=play&id=65004cf398020f00084ca8bc&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="271" tvg-id="60e4519e6873180007d3cddb" tvg-logo="https://images.pluto.tv/channels/60e4519e6873180007d3cddb/colorLogoPNG.png" tvg-name="BBC Travel" , BBC Travel
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="271" tvg-id="60e4519e6873180007d3cddb" tvg-logo="https://images.pluto.tv/channels/60e4519e6873180007d3cddb/colorLogoPNG.png" tvg-name="(Docu) BBC Travel" , (Docu) BBC Travel
 plugin://slyguy.pluto.tv.provider/?_=play&id=60e4519e6873180007d3cddb&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="272" tvg-id="66c4a69ea72e7b0008a3e2c3" tvg-logo="https://images.pluto.tv/channels/66c4a69ea72e7b0008a3e2c3/colorLogoPNG_1730723593828.png" tvg-name="My Strange Addiction" , My Strange Addiction
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="272" tvg-id="66c4a69ea72e7b0008a3e2c3" tvg-logo="https://images.pluto.tv/channels/66c4a69ea72e7b0008a3e2c3/colorLogoPNG_1730723593828.png" tvg-name="(Docu) My Strange Addiction" , (Docu) My Strange Addiction
 plugin://slyguy.pluto.tv.provider/?_=play&id=66c4a69ea72e7b0008a3e2c3&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="273" tvg-id="644257fe7cb4b100081ed874" tvg-logo="https://images.pluto.tv/channels/644257fe7cb4b100081ed874/colorLogoPNG.png" tvg-name="Hell's Kitchen" , Hell's Kitchen
 plugin://slyguy.pluto.tv.provider/?_=play&id=644257fe7cb4b100081ed874&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="274" tvg-id="5dc280c9aa218c0009724b4b" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png" tvg-name="Food" , Food
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="274" tvg-id="5dc280c9aa218c0009724b4b" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png" tvg-name="(Docu) Food" , (Docu) Food
 plugin://slyguy.pluto.tv.provider/?_=play&id=5dc280c9aa218c0009724b4b&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="312" tvg-id="65a67c494a10d800085cab06" tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" tvg-name="Drake & Josh" , Drake & Josh
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="312" tvg-id="65a67c494a10d800085cab06" tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" tvg-name="(Toons) Drake & Josh" , (Toons) Drake & Josh
 plugin://slyguy.pluto.tv.provider/?_=play&id=65a67c494a10d800085cab06&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="313" tvg-id="63c69e6c4207be0007f73c22" tvg-logo="https://images.pluto.tv/channels/63c69e6c4207be0007f73c22/colorLogoPNG.png" tvg-name="Zoey 101" , Zoey 101
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="313" tvg-id="63c69e6c4207be0007f73c22" tvg-logo="https://images.pluto.tv/channels/63c69e6c4207be0007f73c22/colorLogoPNG.png" tvg-name="(Toons) Zoey 101" , (Toons) Zoey 101
 plugin://slyguy.pluto.tv.provider/?_=play&id=63c69e6c4207be0007f73c22&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="314" tvg-id="6447df8cd3fdde0008f1f627" tvg-logo="https://images.pluto.tv/channels/6447df8cd3fdde0008f1f627/colorLogoPNG.png" tvg-name="Die Thundermans" , Die Thundermans
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="314" tvg-id="6447df8cd3fdde0008f1f627" tvg-logo="https://images.pluto.tv/channels/6447df8cd3fdde0008f1f627/colorLogoPNG.png" tvg-name="(Toons) Die Thundermans" , (Toons) Die Thundermans
 plugin://slyguy.pluto.tv.provider/?_=play&id=6447df8cd3fdde0008f1f627&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="316" tvg-id="5e8b580a233dc90007f0cb9d" tvg-logo="https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png" tvg-name="iCarly" , iCarly
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="316" tvg-id="5e8b580a233dc90007f0cb9d" tvg-logo="https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png" tvg-name="(Toons) iCarly" , (Toons) iCarly
 plugin://slyguy.pluto.tv.provider/?_=play&id=5e8b580a233dc90007f0cb9d&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="317" tvg-id="5e8b5e43f294f8000793c3d7" tvg-logo="https://images.pluto.tv/channels/5e8b5e43f294f8000793c3d7/colorLogoPNG.png" tvg-name="Victorious" , Victorious
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="317" tvg-id="5e8b5e43f294f8000793c3d7" tvg-logo="https://images.pluto.tv/channels/5e8b5e43f294f8000793c3d7/colorLogoPNG.png" tvg-name="(Toons) Victorious" , (Toons) Victorious
 plugin://slyguy.pluto.tv.provider/?_=play&id=5e8b5e43f294f8000793c3d7&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="320" tvg-id="5f0d668b872e4400073acc68" tvg-logo="https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG_1750753617970.png" tvg-name="Nickelodeon Teen" , Nickelodeon Teen
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="320" tvg-id="5f0d668b872e4400073acc68" tvg-logo="https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG_1750753617970.png" tvg-name="(Toons) Nickelodeon Teen" , (Toons) Nickelodeon Teen
 plugin://slyguy.pluto.tv.provider/?_=play&id=5f0d668b872e4400073acc68&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="321" tvg-id="67f3eb1c443f0671bc03ece8" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" tvg-name="Nick Jr. Club" , Nick Jr. Club
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="321" tvg-id="67f3eb1c443f0671bc03ece8" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" tvg-name="(Toons) Nick Jr. Club" , (Toons) Nick Jr. Club
 plugin://slyguy.pluto.tv.provider/?_=play&id=67f3eb1c443f0671bc03ece8&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="322" tvg-id="627d2d1d05e09f00073ccdff" tvg-logo="https://images.pluto.tv/channels/627d2d1d05e09f00073ccdff/colorLogoPNG.png" tvg-name="Willkommen bei den Louds" , Willkommen bei den Louds
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="322" tvg-id="627d2d1d05e09f00073ccdff" tvg-logo="https://images.pluto.tv/channels/627d2d1d05e09f00073ccdff/colorLogoPNG.png" tvg-name="(Toons) Willkommen bei den Louds" , (Toons) Willkommen bei den Louds
 plugin://slyguy.pluto.tv.provider/?_=play&id=627d2d1d05e09f00073ccdff&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="323" tvg-id="600adbdf8c554e00072125c9" tvg-logo="https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png" tvg-name="Avatar" , Avatar
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="323" tvg-id="600adbdf8c554e00072125c9" tvg-logo="https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png" tvg-name="(Toons) Avatar" , (Toons) Avatar
 plugin://slyguy.pluto.tv.provider/?_=play&id=600adbdf8c554e00072125c9&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="324" tvg-id="5ede448d3d50590007a4419e" tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG_1750753703285.png" tvg-name="Nickelodeon Toons" , Nickelodeon Toons
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="324" tvg-id="5ede448d3d50590007a4419e" tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG_1750753703285.png" tvg-name="(Toons) Nickelodeon Toons" , (Toons) Nickelodeon Toons
 plugin://slyguy.pluto.tv.provider/?_=play&id=5ede448d3d50590007a4419e&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="325" tvg-id="643683519b32b400094e0a40" tvg-logo="https://images.pluto.tv/channels/643683519b32b400094e0a40/colorLogoPNG.png" tvg-name="Transformers TV" , Transformers TV
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="325" tvg-id="643683519b32b400094e0a40" tvg-logo="https://images.pluto.tv/channels/643683519b32b400094e0a40/colorLogoPNG.png" tvg-name="(Toons) Transformers TV" , (Toons) Transformers TV
 plugin://slyguy.pluto.tv.provider/?_=play&id=643683519b32b400094e0a40&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="326" tvg-id="67f3eb800a1beb98767ca748" tvg-logo="https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png" tvg-name="Nickelodeon Classics" , Nickelodeon Classics
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="326" tvg-id="67f3eb800a1beb98767ca748" tvg-logo="https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png" tvg-name="(Toons) Nickelodeon Classics" , (Toons) Nickelodeon Classics
 plugin://slyguy.pluto.tv.provider/?_=play&id=67f3eb800a1beb98767ca748&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="327" tvg-id="5d6792bd6be2998ad0ccce30" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" tvg-name="Totally Turtles" , Totally Turtles
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="327" tvg-id="5d6792bd6be2998ad0ccce30" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" tvg-name="(Toons) Totally Turtles" , (Toons) Totally Turtles
 plugin://slyguy.pluto.tv.provider/?_=play&id=5d6792bd6be2998ad0ccce30&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="328" tvg-id="5d00e8adaab96b5635b2a005" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" tvg-name="SpongeBob Schwammkopf" , SpongeBob Schwammkopf
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="328" tvg-id="5d00e8adaab96b5635b2a005" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" tvg-name="(Toons) SpongeBob Schwammkopf" , (Toons) SpongeBob Schwammkopf
 plugin://slyguy.pluto.tv.provider/?_=play&id=5d00e8adaab96b5635b2a005&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="340" tvg-id="65d372bba25d5e000823598e" tvg-logo="https://images.pluto.tv/channels/65d372bba25d5e000823598e/colorLogoPNG.png" tvg-name="MTV on Tour!" , MTV on Tour!
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="340" tvg-id="65d372bba25d5e000823598e" tvg-logo="https://images.pluto.tv/channels/65d372bba25d5e000823598e/colorLogoPNG.png" tvg-name="(Music) MTV on Tour!" , (Music) MTV on Tour!
 plugin://slyguy.pluto.tv.provider/?_=play&id=65d372bba25d5e000823598e&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="341" tvg-id="6697672f3a4ad20008deff80" tvg-logo="https://images.pluto.tv/channels/6697672f3a4ad20008deff80/colorLogoPNG.png" tvg-name="MTV Classic" , MTV Classic
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="341" tvg-id="6697672f3a4ad20008deff80" tvg-logo="https://images.pluto.tv/channels/6697672f3a4ad20008deff80/colorLogoPNG.png" tvg-name="(Music) MTV Classic" , (Music) MTV Classic
 plugin://slyguy.pluto.tv.provider/?_=play&id=6697672f3a4ad20008deff80&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="342" tvg-id="6245d15062cd1f00070a2338" tvg-logo="https://images.pluto.tv/channels/6245d15062cd1f00070a2338/colorLogoPNG.png" tvg-name="MTV Music" , MTV Music
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="342" tvg-id="6245d15062cd1f00070a2338" tvg-logo="https://images.pluto.tv/channels/6245d15062cd1f00070a2338/colorLogoPNG.png" tvg-name="(Music) MTV Music" , (Music) MTV Music
 plugin://slyguy.pluto.tv.provider/?_=play&id=6245d15062cd1f00070a2338&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="343" tvg-id="6697c440a4ee270008f9095f" tvg-logo="https://images.pluto.tv/channels/6697c440a4ee270008f9095f/colorLogoPNG.png" tvg-name="MTV Rocks" , MTV Rocks
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="343" tvg-id="6697c440a4ee270008f9095f" tvg-logo="https://images.pluto.tv/channels/6697c440a4ee270008f9095f/colorLogoPNG.png" tvg-name="(Music) MTV Rocks" , (Music) MTV Rocks
 plugin://slyguy.pluto.tv.provider/?_=play&id=6697c440a4ee270008f9095f&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="344" tvg-id="652e766f3fd33c0008161257" tvg-logo="https://images.pluto.tv/channels/652e766f3fd33c0008161257/colorLogoPNG.png" tvg-name="MTV Biggest Pop" , MTV Biggest Pop
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="344" tvg-id="652e766f3fd33c0008161257" tvg-logo="https://images.pluto.tv/channels/652e766f3fd33c0008161257/colorLogoPNG.png" tvg-name="(Music) MTV Biggest Pop" , (Music) MTV Biggest Pop
 plugin://slyguy.pluto.tv.provider/?_=play&id=652e766f3fd33c0008161257&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="345" tvg-id="634fe16981d8f50007198161" tvg-logo="https://images.pluto.tv/channels/634fe16981d8f50007198161/colorLogoPNG.png" tvg-name="MTV Brandneu" , MTV Brandneu
+#EXTINF:-1 group-title="Pluto TV German" tvg-chno="345" tvg-id="634fe16981d8f50007198161" tvg-logo="https://images.pluto.tv/channels/634fe16981d8f50007198161/colorLogoPNG.png" tvg-name="(Music) MTV Brandneu" , (Music) MTV Brandneu
 plugin://slyguy.pluto.tv.provider/?_=play&id=634fe16981d8f50007198161&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="347" tvg-id="6192396135f3910007fc5fc7" tvg-logo="https://images.pluto.tv/channels/6192396135f3910007fc5fc7/colorLogoPNG.png" tvg-name="Goldstar TV" , Goldstar TV
 plugin://slyguy.pluto.tv.provider/?_=play&id=6192396135f3910007fc5fc7&_is_live=1&_noresume=.pvr
@@ -1405,6 +1405,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
