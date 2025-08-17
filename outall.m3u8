@@ -1399,12 +1399,13 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=5d14fd1a252d35decbc4080c&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=623b93628e6ded0007337d4d&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="4810" tvg-id="5f779951372da90007fd45e8" tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" tvg-name="Classica" , Classica
 plugin://slyguy.pluto.tv.provider/?_=play&id=5f779951372da90007fd45e8&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="785" tvg-id="65e9ced78145cb00084d6598" tvg-logo="https://images.pluto.tv/channels/65e9ced78145cb00084d6598/colorLogoPNG.png" tvg-name=".Toons Retro Crush" , Retro Crush
+#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="785" tvg-id="65e9ced78145cb00084d6598" tvg-logo="https://images.pluto.tv/channels/65e9ced78145cb00084d6598/colorLogoPNG.png" tvg-name="Retro Crush" , _Toons Retro Crush
 plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="118" tvg-id="64f8a949f5b5e4000862467c" tvg-logo="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png" tvg-name=".Toons Comedy Central Animation" , Comedy Central Animation
+#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="118" tvg-id="64f8a949f5b5e4000862467c" tvg-logo="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png" tvg-name="Comedy Central Animation" , _Toons Comedy Central Animation
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name=".Toons Retro Kid" , Retro Kid
+#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="Retro Kid" , _Toons Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
