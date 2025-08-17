@@ -1337,14 +1337,10 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=5d14fb6c84dd37df3b4290c5&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=51c75f7bb6f26ba1cd00002f&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="3740" tvg-id="5eb301b7395671000780d100" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" tvg-name="Little Angel's Playroom" , Little Angel's Playroom
 plugin://slyguy.pluto.tv.provider/?_=play&id=5eb301b7395671000780d100&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="3750" tvg-id="60493283ffc52f000710edae" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" tvg-name="Little Angel's Playroom en Español" , Little Angel's Playroom en Español
-plugin://slyguy.pluto.tv.provider/?_=play&id=60493283ffc52f000710edae&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="3760" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png" tvg-name="Baby Shark TV" , Baby Shark TV
 plugin://slyguy.pluto.tv.provider/?_=play&id=60faffc3fbbc120007fc4376&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="3770" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" tvg-name="Nickelodeon Pluto TV USA" , Nickelodeon Pluto TV USA
 plugin://slyguy.pluto.tv.provider/?_=play&id=5ca673e0d0bd6c2689c94ce3&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="3780" tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" tvg-name="Nickelodeon en español" , Nickelodeon en español
-plugin://slyguy.pluto.tv.provider/?_=play&id=5d8d08395f39465da6fb3ec4&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="3785" tvg-id="6452c814939a590008567a3b" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png" tvg-name="90's Kids" , 90's Kids
 plugin://slyguy.pluto.tv.provider/?_=play&id=6452c814939a590008567a3b&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="3787" tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" tvg-name="90s Kids TV 2" , 90s Kids TV 2
@@ -1437,5 +1433,6 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="Retro Kid" , Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
