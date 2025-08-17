@@ -823,16 +823,6 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=66c4a69ea72e7b0008a3e2c3&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=644257fe7cb4b100081ed874&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="274" tvg-id="5dc280c9aa218c0009724b4b" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png" tvg-name="Food" , Food
 plugin://slyguy.pluto.tv.provider/?_=play&id=5dc280c9aa218c0009724b4b&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="290" tvg-id="64c109735dc1660008a4a2dc" tvg-logo="https://images.pluto.tv/channels/64c109735dc1660008a4a2dc/colorLogoPNG.png" tvg-name="Top Gear" , Top Gear
-plugin://slyguy.pluto.tv.provider/?_=play&id=64c109735dc1660008a4a2dc&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="291" tvg-id="5f760c3d41aa2d0007bfde19" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" tvg-name="Auto Motor Sport" , Auto Motor Sport
-plugin://slyguy.pluto.tv.provider/?_=play&id=5f760c3d41aa2d0007bfde19&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="295" tvg-id="660bfc032433010008def35a" tvg-logo="https://images.pluto.tv/channels/660bfc032433010008def35a/colorLogoPNG_1750064741845.png" tvg-name="FIFA+" , FIFA+
-plugin://slyguy.pluto.tv.provider/?_=play&id=660bfc032433010008def35a&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="296" tvg-id="65f9b2dc0d45610008505eac" tvg-logo="https://images.pluto.tv/channels/65f9b2dc0d45610008505eac/colorLogoPNG.png" tvg-name="Realmadrid TV" , Realmadrid TV
-plugin://slyguy.pluto.tv.provider/?_=play&id=65f9b2dc0d45610008505eac&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="297" tvg-id="65df0cff66eec8000897b3a4" tvg-logo="https://images.pluto.tv/channels/65df0cff66eec8000897b3a4/colorLogoPNG.png" tvg-name="Billiard TV" , Billiard TV
-plugin://slyguy.pluto.tv.provider/?_=play&id=65df0cff66eec8000897b3a4&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="312" tvg-id="65a67c494a10d800085cab06" tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" tvg-name="Drake & Josh" , Drake & Josh
 plugin://slyguy.pluto.tv.provider/?_=play&id=65a67c494a10d800085cab06&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="313" tvg-id="63c69e6c4207be0007f73c22" tvg-logo="https://images.pluto.tv/channels/63c69e6c4207be0007f73c22/colorLogoPNG.png" tvg-name="Zoey 101" , Zoey 101
@@ -877,10 +867,6 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=634fe16981d8f50007198161&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=660e97e6635c7500082aaa4d&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="347" tvg-id="6192396135f3910007fc5fc7" tvg-logo="https://images.pluto.tv/channels/6192396135f3910007fc5fc7/colorLogoPNG.png" tvg-name="Goldstar TV" , Goldstar TV
 plugin://slyguy.pluto.tv.provider/?_=play&id=6192396135f3910007fc5fc7&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="372" tvg-id="66c45b1803e3b20008d8c200" tvg-logo="https://images.pluto.tv/channels/66c45b1803e3b20008d8c200/colorLogoPNG.png" tvg-name="CNNi" , CNNi
-plugin://slyguy.pluto.tv.provider/?_=play&id=66c45b1803e3b20008d8c200&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV German" tvg-chno="373" tvg-id="66337e365a402e00087eccaf" tvg-logo="https://images.pluto.tv/channels/66337e365a402e00087eccaf/colorLogoPNG_1745399868663.png" tvg-name="CNN Headlines" , CNN Headlines
-plugin://slyguy.pluto.tv.provider/?_=play&id=66337e365a402e00087eccaf&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="380" tvg-id="67ebc1b6432a0e406f141341" tvg-logo="https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png" tvg-name="Reality" , Reality
 plugin://slyguy.pluto.tv.provider/?_=play&id=67ebc1b6432a0e406f141341&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV German" tvg-chno="381" tvg-id="67cf10203eae343a079b3886" tvg-logo="https://images.pluto.tv/channels/67cf10203eae343a079b3886/colorLogoPNG.png" tvg-name="100% Hotter" , 100% Hotter
@@ -1175,8 +1161,6 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=5adf96e3e738977e2c31cb04&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64e561a4354251000823a0e0&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1560" tvg-id="5812b3a4249444e05d09cc46" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" tvg-name="Cars" , Cars
 plugin://slyguy.pluto.tv.provider/?_=play&id=5812b3a4249444e05d09cc46&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1570" tvg-id="636adc255bcf470007d6e0e2" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png" tvg-name="Top Gear" , Top Gear
-plugin://slyguy.pluto.tv.provider/?_=play&id=636adc255bcf470007d6e0e2&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1580" tvg-id="627d355aa95efd00077afcc7" tvg-logo="https://images.pluto.tv/channels/627d355aa95efd00077afcc7/colorLogoPNG.png" tvg-name="Cheaters" , Cheaters
 plugin://slyguy.pluto.tv.provider/?_=play&id=627d355aa95efd00077afcc7&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1670" tvg-id="651f239d9c7aeb0008286823" tvg-logo="https://images.pluto.tv/channels/651f239d9c7aeb0008286823/colorLogoPNG.png" tvg-name="Dating Disasters" , Dating Disasters
@@ -1203,36 +1187,18 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=654932fa4d6d8f00084c4723&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=6532e8342cf13100083b404c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1810" tvg-id="5e82530945600e0007ca076c" tvg-logo="https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" tvg-name="All Reality WE tv" , All Reality WE tv
 plugin://slyguy.pluto.tv.provider/?_=play&id=5e82530945600e0007ca076c&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1830" tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG_1752489905508.png" tvg-name="Big Brother Quad View" , Big Brother Quad View
-plugin://slyguy.pluto.tv.provider/?_=play&id=64a766cd798def0008734695&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1835" tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG_1749506871042.png" tvg-name="Big Brother Camera 1" , Big Brother Camera 1
-plugin://slyguy.pluto.tv.provider/?_=play&id=64a765c04ea480000823917a&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1840" tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG_1749507013773.png" tvg-name="Big Brother Camera 2" , Big Brother Camera 2
-plugin://slyguy.pluto.tv.provider/?_=play&id=64a765fb798def0008734632&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1845" tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG_1749507197432.png" tvg-name="Big Brother Camera 3" , Big Brother Camera 3
-plugin://slyguy.pluto.tv.provider/?_=play&id=64a7665b902f2300085d7901&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1850" tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG_1749507400605.png" tvg-name="Big Brother Camera 4" , Big Brother Camera 4
-plugin://slyguy.pluto.tv.provider/?_=play&id=64a766a794635e0008626601&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1855" tvg-id="666cc97764aca60008c31cd7" tvg-logo="https://images.pluto.tv/channels/666cc97764aca60008c31cd7/colorLogoPNG.png" tvg-name="Big Brother" , Big Brother
-plugin://slyguy.pluto.tv.provider/?_=play&id=666cc97764aca60008c31cd7&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1870" tvg-id="603fde9026ecbf0007752c2c" tvg-logo="https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" tvg-name="Competition" , Competition
 plugin://slyguy.pluto.tv.provider/?_=play&id=603fde9026ecbf0007752c2c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1876" tvg-id="68757c60552299d2b080eab6" tvg-logo="https://images.pluto.tv/channels/68757c60552299d2b080eab6/colorLogoPNG_1753221108158.png" tvg-name="Project Runway" , Project Runway
 plugin://slyguy.pluto.tv.provider/?_=play&id=68757c60552299d2b080eab6&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1880" tvg-id="5d40855b3fb0855028c99b6f" tvg-logo="https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png" tvg-name="DCC: Making the Team" , DCC: Making the Team
-plugin://slyguy.pluto.tv.provider/?_=play&id=5d40855b3fb0855028c99b6f&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1890" tvg-id="60807fd5db701400078219c2" tvg-logo="https://images.pluto.tv/channels/60807fd5db701400078219c2/colorLogoPNG_1731836032181.png" tvg-name="Ink Master" , Ink Master
 plugin://slyguy.pluto.tv.provider/?_=play&id=60807fd5db701400078219c2&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1900" tvg-id="5b4e99f4423e067bd6df6903" tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" tvg-name="Gordon Ramsay's Hell's Kitchen" , Gordon Ramsay's Hell's Kitchen
 plugin://slyguy.pluto.tv.provider/?_=play&id=5b4e99f4423e067bd6df6903&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1923" tvg-id="677d672ef090ab00085b8e9b" tvg-logo="https://images.pluto.tv/channels/677d672ef090ab00085b8e9b/colorLogoPNG.png" tvg-name="Robot Wars by MECH+" , Robot Wars by MECH+
 plugin://slyguy.pluto.tv.provider/?_=play&id=677d672ef090ab00085b8e9b&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1940" tvg-id="6661f11a41af6400080e90d8" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" tvg-name="Big Brother" , Big Brother
-plugin://slyguy.pluto.tv.provider/?_=play&id=6661f11a41af6400080e90d8&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1950" tvg-id="5f21e7b24744c60007c1f6fc" tvg-logo="https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" tvg-name="Survivor" , Survivor
 plugin://slyguy.pluto.tv.provider/?_=play&id=5f21e7b24744c60007c1f6fc&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1960" tvg-id="5f21e8a6e2f12b000755afdb" tvg-logo="https://images.pluto.tv/channels/5f21e8a6e2f12b000755afdb/colorLogoPNG.png" tvg-name="The Amazing Race" , The Amazing Race
-plugin://slyguy.pluto.tv.provider/?_=play&id=5f21e8a6e2f12b000755afdb&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="1970" tvg-id="5d48685da7e9f476aa8a1888" tvg-logo="https://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png" tvg-name="The Challenge" , The Challenge
 plugin://slyguy.pluto.tv.provider/?_=play&id=5d48685da7e9f476aa8a1888&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2020" tvg-id="5ff8c708653d080007361b14" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" tvg-name="Paramount+ Picks" , Paramount+ Picks
@@ -1295,28 +1261,6 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=5e9decb953e157000752321c&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=6283d51144ad8f0007fa382d&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2480" tvg-id="6036e6e7ac69c400072afca2" tvg-logo="https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG_1731835667408.png" tvg-name="Hot Bench" , Hot Bench
 plugin://slyguy.pluto.tv.provider/?_=play&id=6036e6e7ac69c400072afca2&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2500" tvg-id="5bdcdf1e851dd5632e2c11d1" tvg-logo="https://images.pluto.tv/channels/5bdcdf1e851dd5632e2c11d1/colorLogoPNG.png" tvg-name="QVC" , QVC
-plugin://slyguy.pluto.tv.provider/?_=play&id=5bdcdf1e851dd5632e2c11d1&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2505" tvg-id="67817323dd7846fe546940dd" tvg-logo="https://images.pluto.tv/channels/67817323dd7846fe546940dd/colorLogoPNG.png" tvg-name="QVC2" , QVC2
-plugin://slyguy.pluto.tv.provider/?_=play&id=67817323dd7846fe546940dd&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2510" tvg-id="5f8a02476b72230007e62b7d" tvg-logo="https://images.pluto.tv/channels/5f8a02476b72230007e62b7d/colorLogoPNG-1675271320133.png" tvg-name="HSN" , HSN
-plugin://slyguy.pluto.tv.provider/?_=play&id=5f8a02476b72230007e62b7d&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2533" tvg-id="5421f71da6af422839419cb3" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG_1755034025681.png" tvg-name="CNN HEADLINES" , CNN HEADLINES
-plugin://slyguy.pluto.tv.provider/?_=play&id=5421f71da6af422839419cb3&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2580" tvg-id="5d695f7db53adf96b78e7ce3" tvg-logo="https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png" tvg-name="TODAY All Day" , TODAY All Day
-plugin://slyguy.pluto.tv.provider/?_=play&id=5d695f7db53adf96b78e7ce3&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2620" tvg-id="61e9af6bfbbcc6000700119b" tvg-logo="https://images.pluto.tv/channels/61e9af6bfbbcc6000700119b/colorLogoPNG.png" tvg-name="WeatherNation Los Angeles" , WeatherNation Los Angeles
-plugin://slyguy.pluto.tv.provider/?_=play&id=61e9af6bfbbcc6000700119b&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2640" tvg-id="54ff7ba69222cb1c2624c584" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" tvg-name="Bloomberg TV" , Bloomberg TV
-plugin://slyguy.pluto.tv.provider/?_=play&id=54ff7ba69222cb1c2624c584&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2680" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" tvg-name="Blaze Live" , Blaze Live
-plugin://slyguy.pluto.tv.provider/?_=play&id=5e46fba0c43b0d00096e5ac1&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2700" tvg-id="5e7cf6c7b156d500078c5f44" tvg-logo="https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" tvg-name="OAN Plus" , OAN Plus
-plugin://slyguy.pluto.tv.provider/?_=play&id=5e7cf6c7b156d500078c5f44&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="2705" tvg-id="5d486acc34ceb37d3c458a64" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" tvg-name="The First" , The First
-plugin://slyguy.pluto.tv.provider/?_=play&id=5d486acc34ceb37d3c458a64&_is_live=1&_noresume=.pvr
-#EXTINF:-1 group-title="Pluto TV USA" tvg-chno="3080" tvg-id="5bb3fea0f711fd76340eebff" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" tvg-name="Military" , Military
-plugin://slyguy.pluto.tv.provider/?_=play&id=5bb3fea0f711fd76340eebff&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="3090" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" tvg-name="History" , History
 plugin://slyguy.pluto.tv.provider/?_=play&id=5a4d35dfa5c02e717a234f86&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="3095" tvg-id="66b646f9cd0d3100086af83c" tvg-logo="https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png" tvg-name="60 Minutes" , 60 Minutes
@@ -1493,4 +1437,5 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="Retro Kid" , Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
