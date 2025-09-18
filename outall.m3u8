@@ -52,7 +52,7 @@ plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" group-title="USA", Comedy Central
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Comedy+Central%22%2C+%22link%22%3A+%22%5B%5B%5C%22Comedy+Central%5C%22%2C+%5C%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-310.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Comedy+Central%22%7D
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="USA", Cartoon Network
-plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Cartoon+Network%22%2C+%22link%22%3A+%22%5B%5B%5C%22Cartoon+Network%5C%22%2C+%5C%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-339.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Cartoon+Network%22%7D
+plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Cartoon+Network%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-339.php%22%5D%5D&summary=Cartoon+Network
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="USA", CNN USA
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22CNN+USA%22%2C+%22link%22%3A+%22%5B%5B%5C%22CNN+USA%5C%22%2C+%5C%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-345.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22CNN+USA%22%7D
 #EXTINF:-1 tvg-id="Cinemax.-.Eastern.HD.us" tvg-name="Cinemax USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="USA", Cinemax USA
@@ -1375,4 +1375,5 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
