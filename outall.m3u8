@@ -254,91 +254,91 @@ plugin://plugin.video.dlv2/?title=Sixx+DE&type=item&mode=play&link=%5B%5B%22Sixx
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="Sky Atlantic" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" group-title="UK", Sky Atlantic
 plugin://plugin.video.dlv2/?title=Sky+Atlantic&type=item&mode=play&link=%5B%5B%22Sky+Atlantic%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-362.php%22%5D%5D&summary=Sky+Atlantic
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="SYFY USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" group-title="USA", SYFY USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22SYFY+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-373.php%22%5D%5D&summary=SYFY+USA
+plugin://plugin.video.dlv2/?title=SYFY+USA&type=item&mode=play&link=%5B%5B%22SYFY+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-373.php%22%5D%5D&summary=SYFY+USA
 #EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png" group-title="USA", Sundance TV
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Sundance+TV%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-658.php%22%5D%5D&summary=Sundance+TV
+plugin://plugin.video.dlv2/?title=Sundance+TV&type=item&mode=play&link=%5B%5B%22Sundance+TV%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-658.php%22%5D%5D&summary=Sundance+TV
 #EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR DE" tvg-logo="https://images.tvtoday.de/sender/small/swr.png" group-title="GERMAN", SWR DE
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22SWR+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-735.php%22%5D%5D&summary=SWR+DE
+plugin://plugin.video.dlv2/?title=SWR+DE&type=item&mode=play&link=%5B%5B%22SWR+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-735.php%22%5D%5D&summary=SWR+DE
 #EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="SUPER RTL DE" tvg-logo="https://images.tvtoday.de/sender/small/super.png" group-title="GERMAN", SUPER RTL DE
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22SUPER+RTL+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-738.php%22%5D%5D&summary=SUPER+RTL+DE
+plugin://plugin.video.dlv2/?title=SUPER+RTL+DE&type=item&mode=play&link=%5B%5B%22SUPER+RTL+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-738.php%22%5D%5D&summary=SUPER+RTL+DE
 #EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SR Fernsehen DE" tvg-logo="https://images.tvtoday.de/sender/small/swr.png" group-title="GERMAN", SR Fernsehen DE
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22SR+Fernsehen+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-739.php%22%5D%5D&summary=SR+Fernsehen+DE
+plugin://plugin.video.dlv2/?title=SR+Fernsehen+DE&type=item&mode=play&link=%5B%5B%22SR+Fernsehen+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-739.php%22%5D%5D&summary=SR+Fernsehen+DE
 #EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-name="Smithsonian Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/smithsonian-channel-us.png" group-title="USA", Smithsonian Channel
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Smithsonian+Channel%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-603.php%22%5D%5D&summary=Smithsonian+Channel
+plugin://plugin.video.dlv2/?title=Smithsonian+Channel&type=item&mode=play&link=%5B%5B%22Smithsonian+Channel%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-603.php%22%5D%5D&summary=Smithsonian+Channel
 #EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="USA", TBS USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22TBS+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-336.php%22%5D%5D&summary=TBS+USA
+plugin://plugin.video.dlv2/?title=TBS+USA&type=item&mode=play&link=%5B%5B%22TBS+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-336.php%22%5D%5D&summary=TBS+USA
 #EXTINF:-1 tvg-id="TLC.USA.-.Eastern.us" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png" group-title="USA", TLC
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22TLC%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-337.php%22%5D%5D&summary=TLC
+plugin://plugin.video.dlv2/?title=TLC&type=item&mode=play&link=%5B%5B%22TLC%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-337.php%22%5D%5D&summary=TLC
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="USA", TNT USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22TNT+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-338.php%22%5D%5D&summary=TNT+USA
+plugin://plugin.video.dlv2/?title=TNT+USA&type=item&mode=play&link=%5B%5B%22TNT+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-338.php%22%5D%5D&summary=TNT+USA
 #EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png" group-title="USA", Travel Channel
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Travel+Channel%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-340.php%22%5D%5D&summary=Travel+Channel
+plugin://plugin.video.dlv2/?title=Travel+Channel&type=item&mode=play&link=%5B%5B%22Travel+Channel%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-340.php%22%5D%5D&summary=Travel+Channel
 #EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="TruTV USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png" group-title="USA", TruTV USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22TruTV+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-341.php%22%5D%5D&summary=TruTV+USA
+plugin://plugin.video.dlv2/?title=TruTV+USA&type=item&mode=play&link=%5B%5B%22TruTV+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-341.php%22%5D%5D&summary=TruTV+USA
 #EXTINF:-1 tvg-id="TV.Land.-.Eastern.us" tvg-name="TVLAND" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tv-land-us.png" group-title="USA", TVLAND
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22TVLAND%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-342.php%22%5D%5D&summary=TVLAND
+plugin://plugin.video.dlv2/?title=TVLAND&type=item&mode=play&link=%5B%5B%22TVLAND%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-342.php%22%5D%5D&summary=TVLAND
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us" tvg-name="TCM USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png" group-title="USA", TCM USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22TCM+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-644.php%22%5D%5D&summary=TCM+USA
+plugin://plugin.video.dlv2/?title=TCM+USA&type=item&mode=play&link=%5B%5B%22TCM+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-644.php%22%5D%5D&summary=TCM+USA
 #EXTINF:-1 tvg-id="TMC.(US).-.Eastern.Feed.us" tvg-name="TMC Channel USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/the-movie-channel-us.png" group-title="USA", TMC Channel USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22TMC+Channel+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-698.php%22%5D%5D&summary=TMC+Channel+USA
+plugin://plugin.video.dlv2/?title=TMC+Channel+USA&type=item&mode=play&link=%5B%5B%22TMC+Channel+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-698.php%22%5D%5D&summary=TMC+Channel+USA
 #EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-name="The Food Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png" group-title="USA", The Food Network
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22The+Food+Network%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-384.php%22%5D%5D&summary=The+Food+Network
+plugin://plugin.video.dlv2/?title=The+Food+Network&type=item&mode=play&link=%5B%5B%22The+Food+Network%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-384.php%22%5D%5D&summary=The+Food+Network
 #EXTINF:-1 tvg-id="The.Weather.Channel.us" tvg-name="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/weather-channel-us.png" group-title="USA", The Weather Channel
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22The+Weather+Channel%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-394.php%22%5D%5D&summary=The+Weather+Channel
+plugin://plugin.video.dlv2/?title=The+Weather+Channel&type=item&mode=play&link=%5B%5B%22The+Weather+Channel%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-394.php%22%5D%5D&summary=The+Weather+Channel
 #EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png" group-title="USA", TeenNick
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22TeenNick%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-650.php%22%5D%5D&summary=TeenNick
+plugin://plugin.video.dlv2/?title=TeenNick&type=item&mode=play&link=%5B%5B%22TeenNick%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-650.php%22%5D%5D&summary=TeenNick
 #EXTINF:-1 tvg-id="TV.One.us" tvg-name="TV ONE USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/one-tv-us.png" group-title="USA", TV ONE USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22TV+ONE+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-660.php%22%5D%5D&summary=TV+ONE+USA
+plugin://plugin.video.dlv2/?title=TV+ONE+USA&type=item&mode=play&link=%5B%5B%22TV+ONE+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-660.php%22%5D%5D&summary=TV+ONE+USA
 #EXTINF:-1 tvg-id="TVO.(CICA-DT).Toronto,.ON.ca" tvg-name="TVO CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70583_h15_ad.png" group-title="CANADA", TVO CA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22TVO+CA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-842.php%22%5D%5D&summary=TVO+CA
+plugin://plugin.video.dlv2/?title=TVO+CA&type=item&mode=play&link=%5B%5B%22TVO+CA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-842.php%22%5D%5D&summary=TVO+CA
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="USA", USA Network
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22USA+Network%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-343.php%22%5D%5D&summary=USA+Network
+plugin://plugin.video.dlv2/?title=USA+Network&type=item&mode=play&link=%5B%5B%22USA+Network%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-343.php%22%5D%5D&summary=USA+Network
 #EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1 USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png" group-title="USA", VH1 USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22VH1+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-344.php%22%5D%5D&summary=VH1+USA
+plugin://plugin.video.dlv2/?title=VH1+USA&type=item&mode=play&link=%5B%5B%22VH1+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-344.php%22%5D%5D&summary=VH1+USA
 #EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vice-us.png" group-title="USA", VICE TV
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22VICE+TV%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-659.php%22%5D%5D&summary=VICE+TV
+plugin://plugin.video.dlv2/?title=VICE+TV&type=item&mode=play&link=%5B%5B%22VICE+TV%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-659.php%22%5D%5D&summary=VICE+TV
 #EXTINF:-1 tvg-id="WE.(Women's.Entertainment).-.Eastern.us" tvg-name="WETV USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/we-tv-us.png" group-title="USA", WETV USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22WETV+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-655.php%22%5D%5D&summary=WETV+USA
+plugin://plugin.video.dlv2/?title=WETV+USA&type=item&mode=play&link=%5B%5B%22WETV+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-655.php%22%5D%5D&summary=WETV+USA
 #EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="https://images.tvtoday.de/sender/small/wdr.png" group-title="GERMAN", WDR DE
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22WDR+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-734.php%22%5D%5D&summary=WDR+DE
+plugin://plugin.video.dlv2/?title=WDR+DE&type=item&mode=play&link=%5B%5B%22WDR+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-734.php%22%5D%5D&summary=WDR+DE
 #EXTINF:-1 tvg-id="BBC.News.de" tvg-name="BBC 1 DE" tvg-logo="https://images.tvtoday.de/sender/small/bbc-n.png" group-title="GERMAN", BBC 1 DE
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22BBC+1+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-727.php%22%5D%5D&summary=BBC+1+DE
+plugin://plugin.video.dlv2/?title=BBC+1+DE&type=item&mode=play&link=%5B%5B%22BBC+1+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-727.php%22%5D%5D&summary=BBC+1+DE
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDF Info DE" tvg-logo="https://images.tvtoday.de/sender/small/zinfo.png" group-title="GERMAN", ZDF Info DE
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22ZDF+Info+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-728.php%22%5D%5D&summary=ZDF+Info+DE
+plugin://plugin.video.dlv2/?title=ZDF+Info+DE&type=item&mode=play&link=%5B%5B%22ZDF+Info+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-728.php%22%5D%5D&summary=ZDF+Info+DE
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-name="5 USA" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3022.png" group-title="UK", 5 USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%225+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-360.php%22%5D%5D&summary=5+USA
+plugin://plugin.video.dlv2/?title=5+USA&type=item&mode=play&link=%5B%5B%225+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-360.php%22%5D%5D&summary=5+USA
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="https://images.tvtoday.de/sender/small/3sat.png" group-title="GERMAN", 3sat DE
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%223sat+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-726.php%22%5D%5D&summary=3sat+DE
+plugin://plugin.video.dlv2/?title=3sat+DE&type=item&mode=play&link=%5B%5B%223sat+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-726.php%22%5D%5D&summary=3sat+DE
 #EXTINF:-1 tvg-id="Court.TV.US.us" tvg-name="Court TV USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/court-tv-us.png" group-title="USA", Court TV USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Court+TV+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-281.php%22%5D%5D&summary=Court+TV+USA
+plugin://plugin.video.dlv2/?title=Court+TV+USA&type=item&mode=play&link=%5B%5B%22Court+TV+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-281.php%22%5D%5D&summary=Court+TV+USA
 #EXTINF:-1 tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-name="FUSE TV USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fuse-us.png" group-title="USA", FUSE TV USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22FUSE+TV+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-279.php%22%5D%5D&summary=FUSE+TV+USA
+plugin://plugin.video.dlv2/?title=FUSE+TV+USA&type=item&mode=play&link=%5B%5B%22FUSE+TV+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-279.php%22%5D%5D&summary=FUSE+TV+USA
 #EXTINF:-1 tvg-id="Law.and.Crime.us" tvg-name="Law & Crime Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/law-and-crime-network-us.png" group-title="USA", Law & Crime Network
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Law+&+Crime+Network%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-278.php%22%5D%5D&summary=Law+&+Crime+Network
+plugin://plugin.video.dlv2/?title=Law+&+Crime+Network&type=item&mode=play&link=%5B%5B%22Law+&+Crime+Network%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-278.php%22%5D%5D&summary=Law+&+Crime+Network
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ USA / Epix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png" group-title="USA", MGM+ USA / Epix
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22MGM++USA+/+Epix%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-791.php%22%5D%5D&summary=MGM++USA+/+Epix
+plugin://plugin.video.dlv2/?title=MGM++USA+/+Epix&type=item&mode=play&link=%5B%5B%22MGM++USA+/+Epix%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-791.php%22%5D%5D&summary=MGM++USA+/+Epix
 #EXTINF:-1 tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-name="PBS USA USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" group-title="USA", PBS USA USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22PBS+USA+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-210.php%22%5D%5D&summary=PBS+USA+USA
+plugin://plugin.video.dlv2/?title=PBS+USA+USA&type=item&mode=play&link=%5B%5B%22PBS+USA+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-210.php%22%5D%5D&summary=PBS+USA+USA
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="https://images.tvtoday.de/sender/small/rtl.png" group-title="GERMAN", RTL DE
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22RTL+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-740.php%22%5D%5D&summary=RTL+DE
+plugin://plugin.video.dlv2/?title=RTL+DE&type=item&mode=play&link=%5B%5B%22RTL+DE%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-740.php%22%5D%5D&summary=RTL+DE
 #EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1002.png" group-title="UK", Sky Cinema Comedy UK
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Sky+Cinema+Comedy+UK%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-678.php%22%5D%5D&summary=Sky+Cinema+Comedy+UK
+plugin://plugin.video.dlv2/?title=Sky+Cinema+Comedy+UK&type=item&mode=play&link=%5B%5B%22Sky+Cinema+Comedy+UK%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-678.php%22%5D%5D&summary=Sky+Cinema+Comedy+UK
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="Sky Cinema Drama UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4016.png" group-title="UK", Sky Cinema Drama UK
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Sky+Cinema+Drama+UK%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-680.php%22%5D%5D&summary=Sky+Cinema+Drama+UK
+plugin://plugin.video.dlv2/?title=Sky+Cinema+Drama+UK&type=item&mode=play&link=%5B%5B%22Sky+Cinema+Drama+UK%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-680.php%22%5D%5D&summary=Sky+Cinema+Drama+UK
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-name="Showtime 2 USA (SHO2) USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png" group-title="USA", Showtime 2 USA (SHO2) USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Showtime+2+USA+(SHO2)+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-792.php%22%5D%5D&summary=Showtime+2+USA+(SHO2)+USA
+plugin://plugin.video.dlv2/?title=Showtime+2+USA+(SHO2)+USA&type=item&mode=play&link=%5B%5B%22Showtime+2+USA+(SHO2)+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-792.php%22%5D%5D&summary=Showtime+2+USA+(SHO2)+USA
 #EXTINF:-1 tvg-id="Showtime.Showcase.HD.-.East.us" tvg-name="Showtime Showcase USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-showcase-us.png" group-title="USA", Showtime Showcase USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Showtime+Showcase+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-793.php%22%5D%5D&summary=Showtime+Showcase+USA
+plugin://plugin.video.dlv2/?title=Showtime+Showcase+USA&type=item&mode=play&link=%5B%5B%22Showtime+Showcase+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-793.php%22%5D%5D&summary=Showtime+Showcase+USA
 #EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="Showtime Extreme USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-extreme-us.png" group-title="USA", Showtime Extreme USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Showtime+Extreme+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-794.php%22%5D%5D&summary=Showtime+Extreme+USA
+plugin://plugin.video.dlv2/?title=Showtime+Extreme+USA&type=item&mode=play&link=%5B%5B%22Showtime+Extreme+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-794.php%22%5D%5D&summary=Showtime+Extreme+USA
 #EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-name="Showtime Family Zone (SHO Family Zone) USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-family-zone-us.png" group-title="USA", Showtime Family Zone (SHO Family Zone) USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Showtime+Family+Zone+(SHO+Family+Zone)+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-795.php%22%5D%5D&summary=Showtime+Family+Zone+(SHO+Family+Zone)+USA
+plugin://plugin.video.dlv2/?title=Showtime+Family+Zone+(SHO+Family+Zone)+USA&type=item&mode=play&link=%5B%5B%22Showtime+Family+Zone+(SHO+Family+Zone)+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-795.php%22%5D%5D&summary=Showtime+Family+Zone+(SHO+Family+Zone)+USA
 #EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-name="Showtime Next (SHO Next) USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-next-us.png" group-title="USA", Showtime Next (SHO Next) USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Showtime+Next+(SHO+Next)+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-796.php%22%5D%5D&summary=Showtime+Next+(SHO+Next)+USA
+plugin://plugin.video.dlv2/?title=Showtime+Next+(SHO+Next)+USA&type=item&mode=play&link=%5B%5B%22Showtime+Next+(SHO+Next)+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-796.php%22%5D%5D&summary=Showtime+Next+(SHO+Next)+USA
 #EXTINF:-1 tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-name="Showtime Women USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-women-us.png" group-title="USA", Showtime Women USA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22Showtime+Women+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-797.php%22%5D%5D&summary=Showtime+Women+USA
+plugin://plugin.video.dlv2/?title=Showtime+Women+USA&type=item&mode=play&link=%5B%5B%22Showtime+Women+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-797.php%22%5D%5D&summary=Showtime+Women+USA
 #EXTINF:-1 tvg-id="YTV.(Youth.Television).-.East.HD.ca" tvg-name="YTV CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70827_h9_ab.png" group-title="CANADA", YTV CA
-plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5B%22YTV+CA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-296.php%22%5D%5D&summary=YTV+CA
+plugin://plugin.video.dlv2/?title=YTV+CA&type=item&mode=play&link=%5B%5B%22YTV+CA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-296.php%22%5D%5D&summary=YTV+CA
 #EXTINF:-1 tvg-id="471" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/13thstreet.png",13TH Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
 #EXTINF:-1 tvg-id="56" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/3sat.png",3 Sat
@@ -1375,6 +1375,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
