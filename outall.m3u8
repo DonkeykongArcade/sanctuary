@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="ABC.NEWS.us" tvg-name="ABC USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" group-title="USA", ABC USA
 plugin://plugin.video.dlv2/?title=ABC+USA&type=item&mode=play&link=%5B%5B%22ABC+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-51.php%22%5D%5D&summary=ABC+USA
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA", A&E USA
-plugin://plugin.video.dlv2/?title=A&E+USA&type=item&mode=play&link=%5B%5B%22A&E+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-302.php%22%5D%5D&summary=A&E+USA
+plugin://plugin.video.dlv2/?title=A%26E+USA&type=item&mode=play&link=%5B%5B%22A%26E+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-302.php%22%5D%5D&summary=A%26E+USA
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="USA", AMC USA
 plugin://plugin.video.dlv2/?title=AMC+USA&type=item&mode=play&link=%5B%5B%22AMC+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-303.php%22%5D%5D&summary=AMC+USA
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA", Animal Planet
@@ -122,7 +122,7 @@ plugin://plugin.video.dlv2/?title=Global+CA&type=item&mode=play&link=%5B%5B%22Gl
 #EXTINF:-1 tvg-id="Hallmark.-.Eastern.Feed.us" tvg-name="The Hallmark Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="USA", The Hallmark Channel
 plugin://plugin.video.dlv2/?title=The+Hallmark+Channel&type=item&mode=play&link=%5B%5B%22The+Hallmark+Channel%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-320.php%22%5D%5D&summary=The+Hallmark+Channel
 #EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Movies & Mysterie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-mystery-us.png" group-title="USA", Hallmark Movies & Mysterie
-plugin://plugin.video.dlv2/?title=Hallmark+Movies+&+Mysterie&type=item&mode=play&link=%5B%5B%22Hallmark+Movies+&+Mysterie%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-296.php%22%5D%5D&summary=Hallmark+Movies+&+Mysterie
+plugin://plugin.video.dlv2/?title=Hallmark+Movies+%26+Mysterie&type=item&mode=play&link=%5B%5B%22Hallmark+Movies+%26+Mysterie%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-296.php%22%5D%5D&summary=Hallmark+Movies+%26+Mysterie
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="USA", HBO USA
 plugin://plugin.video.dlv2/?title=HBO+USA&type=item&mode=play&link=%5B%5B%22HBO+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-321.php%22%5D%5D&summary=HBO+USA
 #EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO2 USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" group-title="USA", HBO2 USA
@@ -314,7 +314,7 @@ plugin://plugin.video.dlv2/?title=Court+TV+USA&type=item&mode=play&link=%5B%5B%2
 #EXTINF:-1 tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-name="FUSE TV USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fuse-us.png" group-title="USA", FUSE TV USA
 plugin://plugin.video.dlv2/?title=FUSE+TV+USA&type=item&mode=play&link=%5B%5B%22FUSE+TV+USA%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-279.php%22%5D%5D&summary=FUSE+TV+USA
 #EXTINF:-1 tvg-id="Law.and.Crime.us" tvg-name="Law & Crime Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/law-and-crime-network-us.png" group-title="USA", Law & Crime Network
-plugin://plugin.video.dlv2/?title=Law+&+Crime+Network&type=item&mode=play&link=%5B%5B%22Law+&+Crime+Network%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-278.php%22%5D%5D&summary=Law+&+Crime+Network
+plugin://plugin.video.dlv2/?title=Law+%26+Crime+Network&type=item&mode=play&link=%5B%5B%22Law+%26+Crime+Network%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-278.php%22%5D%5D&summary=Law+%26+Crime+Network
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ USA / Epix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png" group-title="USA", MGM+ USA / Epix
 plugin://plugin.video.dlv2/?title=MGM++USA+/+Epix&type=item&mode=play&link=%5B%5B%22MGM++USA+/+Epix%22%2C+%22https%3A%2F%2Fdlhd.dad%2Fstream%2Fstream-791.php%22%5D%5D&summary=MGM++USA+/+Epix
 #EXTINF:-1 tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-name="PBS USA USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" group-title="USA", PBS USA USA
@@ -1375,6 +1375,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
