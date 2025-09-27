@@ -189,7 +189,7 @@ plugin://plugin.video.dlv2/?title=Nick+Music&type=item&mode=play&link=%5B%5B%22N
 plugin://plugin.video.dlv2/?title=Nicktoons&type=item&mode=play&link=%5B%5B%22Nicktoons%22%2C+%22%2Fstream%2Fstream-649.php%22%5D%5D&summary=Nicktoons
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR DE" tvg-logo="https://images.tvtoday.de/sender/small/n3.png" group-title="GERMAN", NDR DE
 plugin://plugin.video.dlv2/?title=NDR+DE&type=item&mode=play&link=%5B%5B%22NDR+DE%22%2C+%22%2Fstream%2Fstream-736.php%22%5D%5D&summary=NDR+DE
-#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2s" tvg-name="Nat Geo Wild USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" group-title="USA", Nat Geo Wild USA
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="Nat Geo Wild USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" group-title="USA", Nat Geo Wild USA
 plugin://plugin.video.dlv2/?title=Nat+Geo+Wild+USA&type=item&mode=play&link=%5B%5B%22Nat+Geo+Wild+USA%22%2C+%22%2Fstream%2Fstream-745.php%22%5D%5D&summary=Nat+Geo+Wild+USA
 #EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="Oprah Winfrey Network (OWN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oprah-winfrey-network-us.png" group-title="USA", Oprah Winfrey Network (OWN)
 plugin://plugin.video.dlv2/?title=Oprah+Winfrey+Network+(OWN)&type=item&mode=play&link=%5B%5B%22Oprah+Winfrey+Network+(OWN)%22%2C+%22%2Fstream%2Fstream-331.php%22%5D%5D&summary=Oprah+Winfrey+Network+(OWN)
@@ -1375,6 +1375,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
