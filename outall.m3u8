@@ -477,7 +477,7 @@ plugin://plugin.video.vavooto/?name=RTL+UP
 plugin://plugin.video.vavooto/?name=SAT+1
 #EXTINF:-1 tvg-id="766" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/sat1emotions.png",Sat 1 Emotions
 plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
-#EXTINF:-1 tvg-id="12193" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/sat1gold.png",Sat 1 Gold
+#EXTINF:-1 tvg-id="338" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/sat1gold.png",Sat 1 Gold
 plugin://plugin.video.vavooto/?name=SAT+1+GOLD
 #EXTINF:-1 tvg-id="770" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/servustv.png",Servus TV
 plugin://plugin.video.vavooto/?name=SERVUS+TV
@@ -529,7 +529,7 @@ plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 plugin://plugin.video.vavooto/?name=TELE+5
 #EXTINF:-1 tvg-id="4003" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/tlc.png",TLC
 plugin://plugin.video.vavooto/?name=TLC
-#EXTINF:-1 tvg-id="TOGGO" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/toggoplus.png",Toggo
+#EXTINF:-1 tvg-id="601" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/toggoplus.png",Toggo
 plugin://plugin.video.vavooto/?name=TOGGO+PLUS
 #EXTINF:-1 tvg-id="782" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/universalchannel.png",Universal Channel
 plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
@@ -1375,6 +1375,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
