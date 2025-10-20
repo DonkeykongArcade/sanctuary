@@ -1,0 +1,7 @@
+CTV Canada CTV.(CFTO).Toronto,.ON.HD.ca
+CTV 2 Canada CTV2.Atlantic.Region.ca
+Citytv CITY.Toronto,.ON.HD.ca
+CBC CA CBC.(CBLT).Toronto,.ON.HD.ca
+Global CA Global.(CIII-DT-41).Toronto.HD.ca
+TVO CA TVO.(CICA-DT).Toronto,.ON.ca
+YTV CA YTV.(Youth.Television).-.East.HD.ca

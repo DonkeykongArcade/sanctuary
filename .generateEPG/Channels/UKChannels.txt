@@ -1,0 +1,40 @@
+5 USA 5.USA.uk
+BBC News Channel HD BBC.NEWS.HD.uk
+BBC One UK BBC.One.EastHD.uk
+BBC Two UK BBC.Two.HD.uk
+BBC Three UK BBC.Three.HD.uk
+BBC Four UK BBC.Four.HD.uk
+Channel 4 UK Channel.4.HD.uk
+Channel 5 UK Channel.5.HD.uk
+Dave U.and.Dave.HD.uk
+E4 Channel E4.HD.uk
+Film4 UK Film4.HD.uk
+Gold UK U.and.GOLD.HD.uk
+ITV 1 UK ITV1.HD.uk
+ITV 2 UK ITV2.HD.uk
+ITV 3 UK ITV3.HD.uk
+ITV 4 UK ITV4.HD.uk
+MTV UK MTV.HD.uk
+MUTV UK MUTV.HD.uk
+S4C UK S4C.uk
+Sky Cinema Premiere UK SkyPremiereHD.uk
+Sky Cinema Select UK Sky.Cinema.Select.uk
+Sky Cinema Hits UK Sky.Cinema.Hits.HD.uk
+Sky Cinema Greats UK Sky.Greats.HD.uk
+Sky Comedy UK Sky.Comedy.HD.uk
+Sky Comedy Cinema UK Sky.Comedy.Cinema.uk
+Sky Cinema Drama UK Sky.Drama.HD.uk
+Sky Cinema Animation UK SkyAnimationHD.uk
+Sky Cinema Family UK Sky.Family.HD.uk
+Sky Cinema Action UK Sky.Action.HD.uk
+Sky Cinema Thriller UK Sky.Thriller.HD.uk
+Sky Cinema Sci-Fi Horror UK Sky.ScFi/HorHD.uk
+Sky Showcase UK SkyShowcaseHD.uk
+Sky Arts UK Sky.Arts.HD.uk
+Sky Comedy UK Sky.Comedy.HD.uk
+Sky Crime Sky.Crime.HD.uk
+Sky History Sky.HistoryHD.uk
+Sky Witness HD Sky.Witness.HD.uk
+Sky Atlantic Sky.Atlantic.HD.uk
+Sky Cinema Comedy UK Sky.Comedy.Cinema.uk
+Sky Cinema Drama UK Sky.Drama.HD.uk

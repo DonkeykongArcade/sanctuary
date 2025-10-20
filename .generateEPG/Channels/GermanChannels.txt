@@ -1,0 +1,17 @@
+3sat DE 3sat.de
+Arte DE ARTE.de
+BBC 1 DE BBC.News.de
+BR Fernsehen DE BR.de
+HR Fernsehen DE HR.de
+Kabel Eins (Kabel 1) DE kabel.eins.de
+MDR DE MDR.de
+NDR DE NDR.de
+ProSieben (PRO7) DE ProSieben.de
+RTL DE RTL.de
+SAT.1 DE SAT.1.de
+Sixx DE sixx.de
+SWR DE SWR/SR.de
+SUPER RTL DE SUPER.RTL.de
+SR Fernsehen DE SWR/SR.de
+WDR DE WDR.de
+ZDF Info DE ZDFinfo.de

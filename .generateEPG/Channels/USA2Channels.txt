@@ -1,0 +1,109 @@
+ABC USA ABC.News.Live.us2
+A&E USA A.and.E.HD.East.us2
+AMC USA AMC.HD.us2
+Animal Planet Animal.Planet.HD.us2
+Adult Swim AdultSwim.com.Cartoon.Network.us2
+AXS TV USA AXS.TV.us2
+ABCNY USA ABC.(WABC).New.York,.NY.us
+Boomerang Boomerang.us2
+BBC America (BBCA) BBC.America.HD.us2
+BET USA BET.HD.us2
+Bravo USA Bravo.HD.us2
+COZI TV USA COZI.TV.us2
+CMT USA CMT.HD.us2
+CBS USA CBS.Streaming.SD.East.feed.us2
+CW USA CW.us2
+CNBC USA CNBC.HD.us2
+Comedy Central Comedy.Central.HD.us2
+Cartoon Network Cartoon.Network.HD.us2
+CNN USA CNN.HD.us2
+Cinemax USA Cinemax.HD.us2
+Crime+ Investigation USA Crime.and.Investigation.Network.HD.us2
+Comet USA Comet.us2
+Cooking Channel USA Cooking.Channel.HD.us2
+Court TV USA Court.TV.us2
+Cleo TV Cleo.TV.HD.us2
+Discovery Life Channel Discovery.Life.Channel.us2
+Disney Channel Disney.Channel.HD.us2
+Discovery Channel Discovery.Channel.HD.us2
+Discovery Family Discovery.Family.Channel.HD.us2
+Disney XD Disney.XD.HD.us2
+Destination America Destination.America.HD.us2
+Disney JR Disney.Junior.HD.us2
+E! Entertainment Television E!.Entertainment.Television.HD.us2
+FOX USA Fox.News.Channel.HD.us2
+FUSE TV USA Fuse.HD.us2
+FX USA FX.HD.us2
+FXX USA FXX.HD.us2
+Freeform Freeform.HD.us2
+FX Movie Channel FX.Movie.Channel.HD.us2
+FYI FYI.Channel.HD.us2
+FETV - Family Entertainment Television FETV.us
+Game Show Network Game.Show.Network.HD.us2
+Grit Channel Grit.us2
+The Hallmark Channel Hallmark.Channel.HD.us2
+Hallmark Movies & Mysterie Hallmark.Mystery.HD.us2
+HBO USA HBO.East.us2
+HBO2 USA HBO2.HD.us2
+HBO Comedy USA HBO.Comedy.HD.us2
+HBO Family USA HBO.Family.-.Eastern.Feed.us
+HBO Signature USA HBO.Signature.HD.us2
+HBO Zone USA HBO.Zone.HD.us2
+History USA History.HD.us2
+Headline News HLN.HD.us2
+HGTV Home.and.Garden.Television.HD.us2
+Investigation Discovery (ID USA) Investigation.Discovery.HD.us2
+ION USA ION.Television.HD.us2
+IFC TV USA IFC.HD.us2
+Law & Crime Network Law.and.Crime.us2
+Lifetime Network Lifetime.HD.us2
+Lifetime Movies Network Lifetime.Real.Women.us2
+Magnolia Network Magnolia.Network.HD.us2
+MGM+ USA / Epix MGM+.HD.us2
+MTV USA MTV.-.Music.Television.HD.us2
+Motor Trend MOTORTREND.HD.us2
+METV USA Me.TV.Network.us2
+National Geographic (NGC) National.Geographic.HD.us2
+NICK JR Nick.Jr.HD.us2
+NICK Nickelodeon.HD.us2
+Nick Music Nick.Music.us2
+Nicktoons Nicktoons.us2
+Nat Geo Wild USA National.Geographic.Wild.HD.us2
+Oprah Winfrey Network (OWN) Oprah.Winfrey.Network.HD.us2
+Oxygen True Crime Oxygen.True.Crime.HD.us2
+Paramount Network Paramount.Network.HD.us2
+PBS USA USA PBS.Eastern.us
+POP TV USA POP.HD.us2
+Reelz Channel ReelzChannel.HD.us2
+SEC Network USA SEC.Network.HD.us2
+The Hallmark Hallmark.Family.us2
+Science Channel Science.Channel.HD.us2
+Showtime USA Paramount+.with.Showtime.HD.us2
+Showtime SHOxBET USA SHO.x.BET.HD.us2
+Showtime 2 USA (SHO2) USA Showtime.2.HD.us2
+Showtime Showcase USA Showtime.Showcase.HD.us2
+Showtime Extreme USA Showtime.Extreme.HD.us2
+Showtime Family Zone (SHO Family Zone) USA Showtime.Familyzone.HD.us2
+Showtime Next (SHO Next) USA Showtime.Next.HD.us2
+Showtime Women USA Showtime.Women.HD.us2
+Starz Starz.HD.us2
+SYFY USA Syfy.HD.us2
+Sundance TV SundanceTV.HD.us2
+Smithsonian Channel Smithsonian.HD.Network.us2
+TBS USA TBS.HD.us2
+TLC TLC.HD.(US).us2
+TNT USA TNT.HD.us2
+Travel Channel The.Travel.Channel.HD.us2
+TruTV USA truTV.HD.us2
+TVLAND TV.Land.HD.us2
+TCM USA Turner.Classic.Movies.HD.us2
+TMC Channel USA The.Movie.Channel.HD.us2
+The Food Network Food.Network.HD.us2
+The Weather Channel The.Weather.Channel.HD.us2
+TeenNick Teen.Nick.us2
+TV ONE USA TV.ONE.HD.us2
+USA Network USA.Network.HD.us2
+Universal Kids USA Universal.Kids.us
+VH1 USA VH1.HD.us2
+VICE TV Vice.us2
+WETV USA WE.tv.HD.us2
