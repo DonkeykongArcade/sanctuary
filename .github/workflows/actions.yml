@@ -23,8 +23,6 @@ jobs:
           pip install requests
           
       - name: execute py script # run getEpgsall.py
-        env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
         run: python -c "import os; os.chdir('.generateEPG'); import getEpgsall" 
           
       - name: commit files
@@ -39,3 +37,10 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main 
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token:  ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 0
