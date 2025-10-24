@@ -13,8 +13,6 @@ plugin://plugin.video.dlv2/?title=Adult+Swim&type=item&mode=play&link=%5B%5B%22A
 plugin://plugin.video.dlv2/?title=Arte+DE&type=item&mode=play&link=%5B%5B%22Arte+DE%22%2C+%22%2Fstream%2Fstream-725.php%22%5D%5D&summary=Arte+DE
 #EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png" group-title="USA", AXS TV USA
 plugin://plugin.video.dlv2/?title=AXS+TV+USA&type=item&mode=play&link=%5B%5B%22AXS+TV+USA%22%2C+%22%2Fstream%2Fstream-742.php%22%5D%5D&summary=AXS+TV+USA
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABCNY USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA", ABCNY USA
-plugin://plugin.video.dlv2/?title=ABCNY+USA&type=item&mode=play&link=%5B%5B%22ABCNY+USA%22%2C+%22%2Fstream%2Fstream-766.php%22%5D%5D&summary=ABCNY+USA
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="USA", Boomerang
 plugin://plugin.video.dlv2/?title=Boomerang&type=item&mode=play&link=%5B%5B%Boomerang%22%2C+%22%2Fstream%2Fstream-648.php%22%5D%5D&summary=Boomerang
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen DE" tvg-logo="https://images.tvtoday.de/sender/small/br.png" group-title="GERMAN", BR Fernsehen DE
@@ -129,8 +127,6 @@ plugin://plugin.video.dlv2/?title=HBO+USA&type=item&mode=play&link=%5B%5B%22HBO+
 plugin://plugin.video.dlv2/?title=HBO2+USA&type=item&mode=play&link=%5B%5B%22HBO2+USA%22%2C+%22%2Fstream%2Fstream-689.php%22%5D%5D&summary=HBO2+USA
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" group-title="USA", HBO Comedy USA
 plugin://plugin.video.dlv2/?title=HBO+Comedy+USA&type=item&mode=play&link=%5B%5B%22HBO+Comedy+USA%22%2C+%22%2Fstream%2Fstream-690.php%22%5D%5D&summary=HBO+Comedy+USA
-#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-title="USA", HBO Family USA
-plugin://plugin.video.dlv2/?title=HBO+Family+USA&type=item&mode=play&link=%5B%5B%22HBO+Family+USA%22%2C+%22%2Fstream%2Fstream-691.php%22%5D%5D&summary=HBO+Family+USA
 #EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="USA", HBO Signature USA
 plugin://plugin.video.dlv2/?title=HBO+Signature+USA&type=item&mode=play&link=%5B%5B%22HBO+Signature+USA%22%2C+%22%2Fstream%2Fstream-693.php%22%5D%5D&summary=HBO+Signature+USA
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" group-title="USA", HBO Zone USA
@@ -1375,6 +1371,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
