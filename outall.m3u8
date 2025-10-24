@@ -55,9 +55,9 @@ plugin://plugin.video.dlv2/?title=Cartoon+Network&type=item&mode=play&link=%5B%5
 plugin://plugin.video.dlv2/?title=CNN+USA&type=item&mode=play&link=%5B%5B%22CNN+USA%22%2C+%22%2Fstream%2Fstream-345.php%22%5D%5D&summary=CNN+USA
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="USA", Cinemax USA
 plugin://plugin.video.dlv2/?title=Cinemax+USA&type=item&mode=play&link=%5B%5B%22Cinemax+USA%22%2C+%22%2Fstream%2Fstream-374.php%22%5D%5D&summary=Cinemax+USA
-#EXTINF:-1 tvg-id="CTV.(CFTO).Toronto,.ON.HD.ca" tvg-name="CTV Canada" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CANADA", CTV Canada
+#EXTINF:-1 tvg-id="CTV.Toronto.HD.ca2" tvg-name="CTV Canada" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="CANADA", CTV Canada
 plugin://plugin.video.dlv2/?title=CTV+Canada&type=item&mode=play&link=%5B%5B%22CTV+Canada%22%2C+%22%2Fstream%2Fstream-602.php%22%5D%5D&summary=CTV+Canada
-#EXTINF:-1 tvg-id="CTV2.Atlantic.Region.ca" tvg-name="CTV 2 Canada" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png" group-title="CANADA", CTV 2 Canada
+#EXTINF:-1 tvg-id="CTV.Two.-.Toronto.ca2" tvg-name="CTV 2 Canada" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png" group-title="CANADA", CTV 2 Canada
 plugin://plugin.video.dlv2/?title=CTV+2+Canada&type=item&mode=play&link=%5B%5B%22CTV+2+Canada%22%2C+%22%2Fstream%2Fstream-838.php%22%5D%5D&summary=CTV+2+Canada
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime+ Investigation USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/crime-and-investigation-us.png" group-title="USA", Crime+ Investigation USA
 plugin://plugin.video.dlv2/?title=Crime++Investigation+USA&type=item&mode=play&link=%5B%5B%22Crime++Investigation+USA%22%2C+%22%2Fstream%2Fstream-669.php%22%5D%5D&summary=Crime++Investigation+USA
@@ -67,9 +67,9 @@ plugin://plugin.video.dlv2/?title=Comet+USA&type=item&mode=play&link=%5B%5B%22Co
 plugin://plugin.video.dlv2/?title=Cooking+Channel+USA&type=item&mode=play&link=%5B%5B%22Cooking+Channel+USA%22%2C+%22%2Fstream%2Fstream-697.php%22%5D%5D&summary=Cooking+Channel+USA
 #EXTINF:-1 tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cleo-tv-us.png" group-title="USA", Cleo TV
 plugin://plugin.video.dlv2/?title=Cleo+TV&type=item&mode=play&link=%5B%5B%22Cleo+TV%22%2C+%22%2Fstream%2Fstream-715.php%22%5D%5D&summary=Cleo+TV
-#EXTINF:-1 tvg-id="CITY.Toronto,.ON.HD.ca" tvg-name="Citytv" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10125_h15_ab.png" group-title="CANADA", Citytv
+#EXTINF:-1 tvg-id="Citytv.Toronto.HD.ca2" tvg-name="Citytv" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10125_h15_ab.png" group-title="CANADA", Citytv
 plugin://plugin.video.dlv2/?title=Citytv&type=item&mode=play&link=%5B%5B%22Citytv%22%2C+%22%2Fstream%2Fstream-831.php%22%5D%5D&summary=Citytv
-#EXTINF:-1 tvg-id="CBC.(CBLT).Toronto,.ON.HD.ca" tvg-name="CBC CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10084_h15_ab.png" group-title="CANADA", CBC CA
+#EXTINF:-1 tvg-id="CBC.Toronto.HD.ca2" tvg-name="CBC CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10084_h15_ab.png" group-title="CANADA", CBC CA
 plugin://plugin.video.dlv2/?title=CBC+CA&type=item&mode=play&link=%5B%5B%22CBC+CA%22%2C+%22%2Fstream%2Fstream-832.php%22%5D%5D&summary=CBC+CA
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-life-us.png" group-title="USA", Discovery Life Channel
 plugin://plugin.video.dlv2/?title=Discovery+Life+Channel&type=item&mode=play&link=%5B%5B%22Discovery+Life+Channel%22%2C+%22%2Fstream%2Fstream-311.php%22%5D%5D&summary=Discovery+Life+Channel
@@ -115,7 +115,7 @@ plugin://plugin.video.dlv2/?title=Gold+UK&type=item&mode=play&link=%5B%5B%22Gold
 plugin://plugin.video.dlv2/?title=CBC+CA&type=item&mode=play&link=%5B%5B%22CBC+CA%22%2C+%22%2Fstream%2Fstream-699.php%22%5D%5D&summary=CBC+CA
 #EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png" group-title="USA", Grit Channel
 plugin://plugin.video.dlv2/?title=Grit+Channel&type=item&mode=play&link=%5B%5B%22Grit+Channel%22%2C+%22%2Fstream%2Fstream-752.php%22%5D%5D&summary=Grit+Channel
-#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.HD.ca" tvg-name="Global CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73281_h15_ab.png" group-title="CANADA", Global CA
+#EXTINF:-1 tvg-id="Global.Toronto.ca2" tvg-name="Global CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73281_h15_ab.png" group-title="CANADA", Global CA
 plugin://plugin.video.dlv2/?title=Global+CA&type=item&mode=play&link=%5B%5B%22Global+CA%22%2C+%22%2Fstream%2Fstream-836.php%22%5D%5D&summary=Global+CA
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="The Hallmark Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="USA", The Hallmark Channel
 plugin://plugin.video.dlv2/?title=The+Hallmark+Channel&type=item&mode=play&link=%5B%5B%22The+Hallmark+Channel%22%2C+%22%2Fstream%2Fstream-320.php%22%5D%5D&summary=The+Hallmark+Channel
@@ -285,7 +285,7 @@ plugin://plugin.video.dlv2/?title=The+Weather+Channel&type=item&mode=play&link=%
 plugin://plugin.video.dlv2/?title=TeenNick&type=item&mode=play&link=%5B%5B%22TeenNick%22%2C+%22%2Fstream%2Fstream-650.php%22%5D%5D&summary=TeenNick
 #EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV ONE USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/one-tv-us.png" group-title="USA", TV ONE USA
 plugin://plugin.video.dlv2/?title=TV+ONE+USA&type=item&mode=play&link=%5B%5B%22TV+ONE+USA%22%2C+%22%2Fstream%2Fstream-660.php%22%5D%5D&summary=TV+ONE+USA
-#EXTINF:-1 tvg-id="TVO.(CICA-DT).Toronto,.ON.ca" tvg-name="TVO CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70583_h15_ad.png" group-title="CANADA", TVO CA
+#EXTINF:-1 tvg-id="TVO.ca2" tvg-name="TVO CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70583_h15_ad.png" group-title="CANADA", TVO CA
 plugin://plugin.video.dlv2/?title=TVO+CA&type=item&mode=play&link=%5B%5B%22TVO+CA%22%2C+%22%2Fstream%2Fstream-842.php%22%5D%5D&summary=TVO+CA
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="USA", USA Network
 plugin://plugin.video.dlv2/?title=USA+Network&type=item&mode=play&link=%5B%5B%22USA+Network%22%2C+%22%2Fstream%2Fstream-343.php%22%5D%5D&summary=USA+Network
@@ -333,7 +333,7 @@ plugin://plugin.video.dlv2/?title=Showtime+Family+Zone+(SHO+Family+Zone)+USA&typ
 plugin://plugin.video.dlv2/?title=Showtime+Next+(SHO+Next)+USA&type=item&mode=play&link=%5B%5B%22Showtime+Next+(SHO+Next)+USA%22%2C+%22%2Fstream%2Fstream-796.php%22%5D%5D&summary=Showtime+Next+(SHO+Next)+USA
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-women-us.png" group-title="USA", Showtime Women USA
 plugin://plugin.video.dlv2/?title=Showtime+Women+USA&type=item&mode=play&link=%5B%5B%22Showtime+Women+USA%22%2C+%22%2Fstream%2Fstream-797.php%22%5D%5D&summary=Showtime+Women+USA
-#EXTINF:-1 tvg-id="YTV.(Youth.Television).-.East.HD.ca" tvg-name="YTV CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70827_h9_ab.png" group-title="CANADA", YTV CA
+#EXTINF:-1 tvg-id="YTV.ca2" tvg-name="YTV CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70827_h9_ab.png" group-title="CANADA", YTV CA
 plugin://plugin.video.dlv2/?title=YTV+CA&type=item&mode=play&link=%5B%5B%22YTV+CA%22%2C+%22%2Fstream%2Fstream-296.php%22%5D%5D&summary=YTV+CA
 #EXTINF:-1 tvg-id="471" group-title="GERMAN" tvg-logo="https://michaz1988.github.io/logos/13thstreet.png",13TH Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
@@ -1371,6 +1371,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
