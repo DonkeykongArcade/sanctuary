@@ -4,7 +4,6 @@ AMC USA AMC.HD.us2
 Animal Planet Animal.Planet.HD.us2
 Adult Swim AdultSwim.com.Cartoon.Network.us2
 AXS TV USA AXS.TV.us2
-ABCNY USA ABC.(WABC).New.York,.NY.us
 Boomerang Boomerang.us2
 BBC America (BBCA) BBC.America.HD.us2
 BET USA BET.HD.us2
@@ -38,7 +37,7 @@ FXX USA FXX.HD.us2
 Freeform Freeform.HD.us2
 FX Movie Channel FX.Movie.Channel.HD.us2
 FYI FYI.Channel.HD.us2
-FETV - Family Entertainment Television FETV.us
+FETV - Family Entertainment Television Family.Entertainment.Television.us2
 Game Show Network Game.Show.Network.HD.us2
 Grit Channel Grit.us2
 The Hallmark Channel Hallmark.Channel.HD.us2
@@ -103,7 +102,6 @@ The Weather Channel The.Weather.Channel.HD.us2
 TeenNick Teen.Nick.us2
 TV ONE USA TV.ONE.HD.us2
 USA Network USA.Network.HD.us2
-Universal Kids USA Universal.Kids.us
 VH1 USA VH1.HD.us2
 VICE TV Vice.us2
 WETV USA WE.tv.HD.us2

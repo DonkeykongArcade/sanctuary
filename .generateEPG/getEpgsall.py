@@ -12,8 +12,7 @@ output_file_gz = '../' + output_file + '.gz'
 
 epgUrls = [
         'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
-        'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz',
-        'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz',
+        'https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz',
         'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
         'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz',
         'https://michaz1988.github.io/guide.xml.gz',
@@ -22,7 +21,7 @@ epgUrls = [
         'https://i.mjh.nz/PlutoTV/de.xml.gz'
 ]
 
-usaGroup_file = os.path.join(os.path.dirname(__file__), 'Channels/USA2Channels.txt')
+usaGroup_file = os.path.join(os.path.dirname(__file__), 'Channels/USAChannels.txt')
 with open(usaGroup_file, 'r', encoding='utf-8') as usaGroupfile:
     usaGroup = list(line.strip() for line in usaGroupfile)
 
