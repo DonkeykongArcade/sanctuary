@@ -105,7 +105,7 @@ plugin://plugin.video.dlv2/?title=FX+Movie+Channel&type=item&mode=play&link=%5B%
 plugin://plugin.video.dlv2/?title=FYI&type=item&mode=play&link=%5B%5B%22FYI%22%2C+%22%2Fstream%2Fstream-665.php%22%5D%5D&summary=FYI
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" group-title="UK", Film4 UK
 plugin://plugin.video.dlv2/?title=Film4+UK&type=item&mode=play&link=%5B%5B%22Film4+UK%22%2C+%22%2Fstream%2Fstream-688.php%22%5D%5D&summary=Film4+UK
-#EXTINF:-1 tvg-id="FETV.us" tvg-name="FETV - Family Entertainment Television" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fetv-us.png" group-title="USA", FETV - Family Entertainment Television
+#EXTINF:-1 tvg-id="Family.Entertainment.Television.us2" tvg-name="FETV - Family Entertainment Television" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fetv-us.png" group-title="USA", FETV - Family Entertainment Television
 plugin://plugin.video.dlv2/?title=FETV+-+Family+Entertainment+Television&type=item&mode=play&link=%5B%5B%22FETV+-+Family+Entertainment+Television%22%2C+%22%2Fstream%2Fstream-751.php%22%5D%5D&summary=FETV+-+Family+Entertainment+Television
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/game-show-network-us.png" group-title="USA", Game Show Network
 plugin://plugin.video.dlv2/?title=Game+Show+Network&type=item&mode=play&link=%5B%5B%22Game+Show+Network%22%2C+%22%2Fstream%2Fstream-319.php%22%5D%5D&summary=Game+Show+Network
@@ -1371,6 +1371,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
