@@ -243,6 +243,28 @@ plugin://plugin.video.dlv2/?title=Showtime+USA&type=item&mode=play&link=%5B%5B%2
 plugin://plugin.video.dlv2/?title=Showtime+SHOxBET+USA&type=item&mode=play&link=%5B%5B%22Showtime+SHOxBET+USA%22%2C+%22%2Fstream%2Fstream-685.php%22%5D%5D&summary=Showtime+SHOxBET+USA
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="USA", Starz
 plugin://plugin.video.dlv2/?title=Starz&type=item&mode=play&link=%5B%5B%22Starz%22%2C+%22%2Fstream%2Fstream-335.php%22%5D%5D&summary=Starz
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-cinema-us.png" group-title="USA", Starz Cinema
+plugin://plugin.video.dlv2/?title=Starz+Cinema&type=item&mode=play&link=%5B%5B%22Starz+Cinema%22%2C+%22%2Fstream%2Fstream-970.php%22%5D%5D&summary=Starz+Cinema
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-comedy-us.png" group-title="USA", Starz Comedy
+plugin://plugin.video.dlv2/?title=Starz+Comedy&type=item&mode=play&link=%5B%5B%22Starz+Comedy%22%2C+%22%2Fstream%2Fstream-971.php%22%5D%5D&summary=Starz+Comedy
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-edge-us.png" group-title="USA", Starz Edge
+plugin://plugin.video.dlv2/?title=Starz+Edge&type=item&mode=play&link=%5B%5B%22Starz+Edge%22%2C+%22%2Fstream%2Fstream-972.php%22%5D%5D&summary=Starz+Edge
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-black-us.png" group-title="USA", Starz In Black
+plugin://plugin.video.dlv2/?title=Starz+In+Black&type=item&mode=play&link=%5B%5B%22Starz+In+Black%22%2C+%22%2Fstream%2Fstream-973.php%22%5D%5D&summary=Starz+In+Black
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids & Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-kids-and-family-us.png" group-title="USA", Starz Kids & Family
+plugin://plugin.video.dlv2/?title=Starz+Kids+%26+Family&type=item&mode=play&link=%5B%5B%22Starz+Kids+%26+Family%22%2C+%22%2Fstream%2Fstream-974.php%22%5D%5D&summary=Starz+Kids+%26+Family
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-us.png" group-title="USA", Starz Encore
+plugin://plugin.video.dlv2/?title=Starz+Encore&type=item&mode=play&link=%5B%5B%22Starz+Encore%22%2C+%22%2Fstream%2Fstream-975.php%22%5D%5D&summary=Starz+Encore
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-action-us.png" group-title="USA", Starz Encore Action
+plugin://plugin.video.dlv2/?title=Starz+Encore+Action&type=item&mode=play&link=%5B%5B%22Starz+Encore+Action%22%2C+%22%2Fstream%2Fstream-976.php%22%5D%5D&summary=Starz+Encore+Action
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="Starz Encore Black" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-black-us.png" group-title="USA", Starz Encore Black
+plugin://plugin.video.dlv2/?title=Starz+Encore+Black&type=item&mode=play&link=%5B%5B%22Starz+Encore+Black%22%2C+%22%2Fstream%2Fstream-977.php%22%5D%5D&summary=Starz+Encore+Black
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-classic-us.png" group-title="USA", Starz Encore Classic
+plugin://plugin.video.dlv2/?title=Starz+Encore+Classic&type=item&mode=play&link=%5B%5B%22Starz+Encore+Classic%22%2C+%22%2Fstream%2Fstream-978.php%22%5D%5D&summary=Starz+Encore+Classic
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-family-us.png" group-title="USA", Starz Encore Family
+plugin://plugin.video.dlv2/?title=Starz+Encore+Family&type=item&mode=play&link=%5B%5B%22Starz+Encore+Family%22%2C+%22%2Fstream%2Fstream-979.php%22%5D%5D&summary=Starz+Encore+Family
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-suspense-us.png" group-title="USA", Starz Encore Suspense
+plugin://plugin.video.dlv2/?title=Starz+Encore+Suspense&type=item&mode=play&link=%5B%5B%22Starz+Encore+Suspense%22%2C+%22%2Fstream%2Fstream-980.php%22%5D%5D&summary=Starz+Encore+Suspense
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-name="Sky Witness HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4066.png" group-title="UK", Sky Witness HD
 plugin://plugin.video.dlv2/?title=Sky+Witness+HD&type=item&mode=play&link=%5B%5B%22Sky+Witness+HD%22%2C+%22%2Fstream%2Fstream-361.php%22%5D%5D&summary=Sky+Witness+HD
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://images.tvtoday.de/sender/small/sixx.png" group-title="GERMAN", Sixx DE

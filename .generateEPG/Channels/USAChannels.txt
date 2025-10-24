@@ -86,6 +86,17 @@ Showtime Family Zone (SHO Family Zone) USA Showtime.Familyzone.HD.us2
 Showtime Next (SHO Next) USA Showtime.Next.HD.us2
 Showtime Women USA Showtime.Women.HD.us2
 Starz Starz.HD.us2
+Starz Cinema Starz.Cinema.HD.us2
+Starz Comedy Starz.Comedy.HD.us2
+Starz Edge Starz.Edge.HD.us2
+Starz In Black Starz.in.Black.HD.us2
+Starz Kids & Family Starz.Kids.HD.us2
+Starz Encore Starz.Encore.HD.us2
+Starz Encore Action Starz.Encore.Action.HD.us2
+Starz Encore Black Starz.Encore.Black.us2
+Starz Encore Classic Starz.Encore.Classic.us2
+Starz Encore Family Starz.Encore.Family.SD.us2
+Starz Encore Suspense Starz.Encore.Suspense.us2
 SYFY USA Syfy.HD.us2
 Sundance TV SundanceTV.HD.us2
 Smithsonian Channel Smithsonian.HD.Network.us2
