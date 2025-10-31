@@ -240,7 +240,7 @@ plugin://plugin.video.dlv2/?title=Science+Channel&type=item&mode=play&link=%5B%5
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-with-showtime-us.png" group-title="USA", Showtime USA
 plugin://plugin.video.dlv2/?title=Showtime+USA&type=item&mode=play&link=%5B%5B%22Showtime+USA%22%2C+%22%2Fstream%2Fstream-333.php%22%5D%5D&summary=Showtime+USA
 #EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-name="Showtime SHOxBET USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sho-bet-us.png" group-title="USA", Showtime SHOxBET USA
-plugin://plugin.video.dlv2/?title=Showtime+SHOxBET+USA&type=item&mode=play&link=%5B%5B%22Showtime+SHOxBET+USA%22%2C+%22%2Fstream%2Fstream-685.php%22%5D%5D&summary=Showtime+SHOxBET+USA
+plugin://plugin.video.dlv2/?title=Showtime+SHOxBET+USA&type=item&mode=play&link=%5B%5B%22Showtime+SHOxBET+USA%22%2C+%22%2Fstream%2Fstream-695.php%22%5D%5D&summary=Showtime+SHOxBET+USA
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="USA", Starz
 plugin://plugin.video.dlv2/?title=Starz&type=item&mode=play&link=%5B%5B%22Starz%22%2C+%22%2Fstream%2Fstream-335.php%22%5D%5D&summary=Starz
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-cinema-us.png" group-title="USA", Starz Cinema
@@ -1393,6 +1393,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
