@@ -15,7 +15,7 @@ epgUrls = [
         'https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz',
         'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
         'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz',
-        'https://github.com/michaz1988/epg/raw/main/guide.xml.gz',
+        'https://michaz1988.github.io/guide.xml.gz',
         'https://i.mjh.nz/PlutoTV/us.xml.gz',
         'https://i.mjh.nz/PlutoTV/ca.xml.gz',
         'https://i.mjh.nz/PlutoTV/de.xml.gz'
