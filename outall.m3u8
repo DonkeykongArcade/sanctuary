@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="USA Backup", Cartoon Network
+https://tvpass.org/channel/cartoon-network-usa-eastern-feed
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" group-title="USA", ABC USA
 plugin://plugin.video.dlv2/?title=ABC+USA&type=item&mode=play&link=%5B%5B%22ABC+USA%22%2C+%22%2Fstream%2Fstream-51.php%22%5D%5D&summary=ABC+USA
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA", A&E USA
@@ -8,7 +10,7 @@ plugin://plugin.video.dlv2/?title=AMC+USA&type=item&mode=play&link=%5B%5B%22AMC+
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA", Animal Planet
 plugin://plugin.video.dlv2/?title=Animal+Planet&type=item&mode=play&link=%5B%5B%22Animal+Planet%22%2C+%22%2Fstream%2Fstream-304.php%22%5D%5D&summary=Animal+Planet
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png" group-title="USA", Adult Swim
-plugin://plugin.video.dlv2/?title=Adult+Swim&type=item&mode=play&link=%5B%5B%22Adult+Swim%22%2C+%22%2Fstream%2Fstream-295.php%22%5D%5D&summary=Adult+Swim%26is_media%3DTrue%29%27%29%5D&is_media=True
+plugin://plugin.video.dlv2/?title=Adult+Swim&type=item&mode=play&link=%5B%5B%22Adult+Swim%22%2C+%22%2Fstream%2Fstream-295.php%22%5D%5D&summary=Adult+Swim
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte DE" tvg-logo="https://images.tvtoday.de/sender/small/arte.png" group-title="GERMAN", Arte DE
 plugin://plugin.video.dlv2/?title=Arte+DE&type=item&mode=play&link=%5B%5B%22Arte+DE%22%2C+%22%2Fstream%2Fstream-725.php%22%5D%5D&summary=Arte+DE
 #EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png" group-title="USA", AXS TV USA
@@ -1393,6 +1395,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
