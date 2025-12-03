@@ -1,8 +1,190 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="USA Backup", Cartoon Network Dream
-plugin://plugin.video.dreammachine/?action=radio_play&title=%5BCOLOR+white%5DCartoon+Network+USA+Eastern+Feed%5B%2FCOLOR%5D&url=https%3A%2F%2Ftvpass.org%2Flive%2FCartoonNetworkEast%2Fsd&plot=&extra=&page=
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="USA Backup", Cartoon Network TvPass
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="USA Backup",A&E US Eastern Feed
+https://tvpass.org/live/AEEast/sdd
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" group-title="USA Backup",AMC Eastern Feed
+https://tvpass.org/live/AMCEast/sd
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="USA Backup",Animal Planet US East
+https://tvpass.org/live/AnimalPlanetEast/sd
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="USA Backup",BBC America East
+https://tvpass.org/live/BBCAmericaEast/sd
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="USA Backup",BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" group-title="USA Backup",BET Eastern Feed
+https://tvpass.org/live/BETEast/sd
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her" group-title="USA Backup",BET Her
+https://tvpass.org/live/BETHerEast/sd
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" group-title="USA Backup",Boomerang
+https://tvpass.org/live/Boomerang/sd
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" group-title="USA Backup",Bravo USA Eastern Feed
+https://tvpass.org/live/BravoEast/sd
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" group-title="USA Backup",Cartoon Network USA Eastern Feed
 https://tvpass.org/live/CartoonNetworkEast/sd
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed" group-title="USA Backup",Cinemax Eastern Feed
+https://tvpass.org/live/CinemaxEast/sd
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" group-title="USA Backup",CMT US Eastern Feed
+https://tvpass.org/live/CMTEast/sd
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA" group-title="USA Backup",CNBC USA
+https://tvpass.org/live/CNBC/sd
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="USA Backup",CNN US
+https://tvpass.org/live/CNN/sd
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" group-title="USA Backup",Comedy Central (US) Eastern Feed
+https://tvpass.org/live/ComedyCentralEast/sd
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD" group-title="USA Backup",Crime & Investigation Network USA HD
+https://tvpass.org/live/CrimePlusInvestigation/sd
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia" group-title="USA Backup",CW (WDCW) District of Columbia
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America" group-title="USA Backup",Destination America
+https://tvpass.org/live/DestinationAmerica/sd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="USA Backup",Discovery Channel (US) Eastern Feed
+https://tvpass.org/live/DiscoveryChannelEast/sd
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="USA Backup",Discovery Family Channel
+https://tvpass.org/live/DiscoveryFamily/sd
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="USA Backup",Discovery Life Channel
+https://tvpass.org/live/DiscoveryLife/sd
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" group-title="USA Backup",Disney Eastern Feed
+https://tvpass.org/live/DisneyChannelEast/sd
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" group-title="USA Backup",Disney Junior USA East
+https://tvpass.org/live/DisneyJuniorEast/sd
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" group-title="USA Backup",Disney XD USA Eastern Feed
+https://tvpass.org/live/DisneyXDEast/sd
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed" group-title="USA Backup",E! Entertainment USA Eastern Feed
+https://tvpass.org/live/EEast/sd
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed" group-title="USA Backup",Food Network USA Eastern Feed
+https://tvpass.org/live/FoodNetworkEast/sd
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" group-title="USA Backup",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed" group-title="USA Backup",Freeform East Feed
+https://tvpass.org/live/FreeformEast/sd
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed" group-title="USA Backup",FUSE TV Eastern feed
+https://tvpass.org/live/FuseEast/sd
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" group-title="USA Backup",FX Movie Channel
+https://tvpass.org/live/FXMovieChannel/sd
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast" group-title="USA Backup",FX Networks East Coast
+https://tvpass.org/live/FXEast/sd
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern" group-title="USA Backup",FXX USA Eastern
+https://tvpass.org/live/FXXEast/sd
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern" group-title="USA Backup",FYI USA Eastern
+https://tvpass.org/live/FYIEast/sd
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East" group-title="USA Backup",Game Show Network East
+https://tvpass.org/live/game-show-network-east/sd
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed" group-title="USA Backup",Hallmark Eastern Feed
+https://tvpass.org/live/HallmarkChannelEast/sd
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD" group-title="USA Backup",Hallmark Family HD
+https://tvpass.org/live/HallmarkDrama/sd
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD" group-title="USA Backup",Hallmark Mystery Eastern HD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed" group-title="USA Backup",HBO Eastern Feed
+https://tvpass.org/live/HBOEast/sd
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed" group-title="USA Backup",HBO 2 Eastern Feed
+https://tvpass.org/live/HBO2East/sd
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East" group-title="USA Backup",HBO Comedy HD East
+https://tvpass.org/live/HBOComedyEast/sd
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed" group-title="USA Backup",HBO Family Eastern Feed
+https://tvpass.org/live/HBOFamilyEast/sd
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern" group-title="USA Backup",HBO Signature (HBO 3) Eastern
+https://tvpass.org/live/HBOSignatureEast/sd
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East" group-title="USA Backup",HBO Zone HD East
+https://tvpass.org/live/HBOZoneEast/sd
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="USA Backup",HGTV USA Eastern Feed
+https://tvpass.org/live/HGTVEast/sd
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="USA Backup",History Channel US Eastern Feed
+https://tvpass.org/live/HistoryEast/sd
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="USA Backup",HLN
+https://tvpass.org/live/HLN/sd
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US" group-title="USA Backup",Independent Film Channel US
+https://tvpass.org/live/IFCEast/sd
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="USA Backup",Investigation Discovery USA Eastern
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" group-title="USA Backup",ION Eastern Feed
+https://tvpass.org/live/IONTVEast/sd
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" group-title="USA Backup",Lifetime Movies East
+https://tvpass.org/live/LifetimeMoviesEast/sd
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" group-title="USA Backup",Lifetime Network US Eastern Feed
+https://tvpass.org/live/LifetimeEast/sd
+#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East" group-title="USA Backup",LOGO East
+https://tvpass.org/live/LogoEast/sd
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" group-title="USA Backup",MeTV Toons (WJLP2) New Jersey
+https://tvpass.org/live/metv-toons/sd
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York" group-title="USA Backup",MeTV Wjlp New Jerseynew York
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern" group-title="USA Backup",MoreMax Eastern
+https://tvpass.org/live/MoreMaxEast/sd
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD" group-title="USA Backup",Motor Trend HD
+https://tvpass.org/live/Motortrend/sd
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" group-title="USA Backup",MovieMax (Max 6) East
+https://tvpass.org/live/MovieMaxEast/sd
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East" group-title="USA Backup",MTV 2 East
+https://tvpass.org/live/mtv-2-east/sd
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" group-title="USA Backup",MTV USA Eastern Feed
+https://tvpass.org/live/MTVEast/sd
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="USA Backup",National Geographic US Eastern
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="USA Backup",National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East" group-title="USA Backup",Nick Jr. East
+https://tvpass.org/live/NickJrEast/sd
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" group-title="USA Backup",Nickelodeon USA East Feed
+https://tvpass.org/live/NickelodeonEast/sd
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East" group-title="USA Backup",Nicktoons East
+https://tvpass.org/live/NicktoonsEast/sd
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern" group-title="USA Backup",Oprah Winfrey Network USA Eastern
+https://tvpass.org/live/OWNEast/sd
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US" group-title="USA Backup",Outdoor Channel US
+https://tvpass.org/live/OutdoorChannel/sd
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed" group-title="USA Backup",Oxygen Eastern Feed
+https://tvpass.org/live/OxygenEast/sd
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY" group-title="USA Backup",PBS (WNET) New York, NY
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel" group-title="USA Backup",ReelzChannel
+https://tvpass.org/live/Reelz/sd
+#EXTINF:-1 tvg-id="science" tvg-name="Science" group-title="USA Backup",Science
+https://tvpass.org/live/Science/sd
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network" group-title="USA Backup",SEC Network
+https://tvpass.org/live/SECN/sd
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed" group-title="USA Backup",Showtime Eastern Feed
+https://tvpass.org/live/ShowtimeEast/sd
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern" group-title="USA Backup",Showtime 2 Eastern
+https://tvpass.org/live/Showtime2East/sd
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern" group-title="USA Backup",Starz Eastern
+https://tvpass.org/live/StarzEast/sd
+#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East" group-title="USA Backup",SundanceTV USA East
+https://tvpass.org/live/SundanceTVEast/sd
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed" group-title="USA Backup",Syfy Eastern Feed
+https://tvpass.org/live/SyfyEast/sd
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East" group-title="USA Backup",TBS East
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern" group-title="USA Backup",TeenNick Eastern
+https://tvpass.org/live/TeenNickEast/sd
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed" group-title="USA Backup",Telemundo Eastern Feed
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel" group-title="USA Backup",The Cooking Channel
+https://tvpass.org/live/CookingChannel/sd
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel" group-title="USA Backup",The Weather Channel
+https://tvpass.org/live/TheWeatherChannel/sd
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" group-title="USA Backup",TLC USA Eastern
+https://tvpass.org/live/TLCEast/sd
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed" group-title="USA Backup",TMC (US) Eastern Feed
+https://tvpass.org/live/TheMovieChannelEast/sd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" group-title="USA Backup",TNT Eastern Feed
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East" group-title="USA Backup",Travel US East
+https://tvpass.org/live/TravelChannelEast/sd
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern" group-title="USA Backup",truTV USA Eastern
+https://tvpass.org/live/truTVEast/sd
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA" group-title="USA Backup",Turner Classic Movies USA
+https://tvpass.org/live/TCMEast/sd
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" group-title="USA Backup",TV Land Eastern
+https://tvpass.org/live/tv-land-eastern/sd
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One" group-title="USA Backup",TV One
+https://tvpass.org/live/TVOne/sd
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed" group-title="USA Backup",USA Network East Feed
+https://tvpass.org/live/USANetworkEast/sd
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" group-title="USA Backup",VH1 Eastern Feed
+https://tvpass.org/live/VH1East/sd
+#EXTINF:-1 tvg-id="vice" tvg-name="VICE" group-title="USA Backup",VICE
+https://tvpass.org/live/VICETV/sd
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern" group-title="USA Backup",WE (Women's Entertainment) Eastern
+https://tvpass.org/live/WeTVEast/sd
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" group-title="USA", ABC USA
 plugin://plugin.video.dlv2/?title=ABC+USA&type=item&mode=play&link=%5B%5B%22ABC+USA%22%2C+%22%2Fstream%2Fstream-51.php%22%5D%5D&summary=ABC+USA
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA", A&E USA
@@ -1397,6 +1579,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
