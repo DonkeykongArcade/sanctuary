@@ -101,7 +101,7 @@ https://tvpass.org/live/LifetimeEast/sd
 https://tvpass.org/live/metv-toons/sd
 #EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="METV USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-us.png" group-title="USA Backup", METV USA
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="MoreMax Eastern" group-title="USA Backup",MoreMax
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="MoreMax Eastern" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/moremax.png" group-title="USA Backup",MoreMax
 https://tvpass.org/live/MoreMaxEast/sd
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="Motor Trend" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="USA Backup", Motor Trend
 https://tvpass.org/live/Motortrend/sd
@@ -1567,6 +1567,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
