@@ -7,6 +7,7 @@ AXS TV USA AXS.TV.us2
 Boomerang Boomerang.us2
 BBC America (BBCA) BBC.America.HD.us2
 BET USA BET.HD.us2
+BET Her BET.Her.us2
 Bravo USA Bravo.HD.us2
 COZI TV USA COZI.TV.us2
 CMT USA CMT.HD.us2
@@ -60,8 +61,11 @@ Lifetime Movies Network Lifetime.Real.Women.us2
 Magnolia Network Magnolia.Network.HD.us2
 MGM+ USA / Epix MGM+.HD.us2
 MTV USA MTV.-.Music.Television.HD.us2
+MTV2 MTV2:.Music.Television.HD.us2
 Motor Trend MOTORTREND.HD.us2
 METV USA Me.TV.Network.us2
+MeTV Toons MeTV.Toons.us2
+MoreMax MoreMax.HD.us2
 National Geographic (NGC) National.Geographic.HD.us2
 NICK JR Nick.Jr.HD.us2
 NICK Nickelodeon.HD.us2
@@ -69,9 +73,10 @@ Nick Music Nick.Music.us2
 Nicktoons Nicktoons.us2
 Nat Geo Wild USA National.Geographic.Wild.HD.us2
 Oprah Winfrey Network (OWN) Oprah.Winfrey.Network.HD.us2
+Outdoor Channel Outdoor.Channel.HD.us2
 Oxygen True Crime Oxygen.True.Crime.HD.us2
 Paramount Network Paramount.Network.HD.us2
-PBS USA USA PBS.Eastern.us
+PBS USA USA PBS.Stream.us2
 POP TV USA POP.HD.us2
 Reelz Channel ReelzChannel.HD.us2
 SEC Network USA SEC.Network.HD.us2
