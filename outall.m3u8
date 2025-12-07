@@ -9,7 +9,7 @@ https://tvpass.org/live/AnimalPlanetEast/sd
 https://tvpass.org/live/BBCAmericaEast/sd
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="USA Backup", BET USA
 https://tvpass.org/live/BETEast/sd
-#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png" group-title="USA Backup",BET Her
+#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png" group-title="USA Backup",BET Her
 https://tvpass.org/live/BETHerEast/sd
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="USA Backup", Boomerang
 https://tvpass.org/live/Boomerang/sd
@@ -67,7 +67,7 @@ https://tvpass.org/live/FYIEast/sd
 https://tvpass.org/live/game-show-network-east/sd
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="The Hallmark Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="USA Backup", The Hallmark Channel
 https://tvpass.org/live/HallmarkChannelEast/sd
-#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-family-us.png" group-title="USA Backup",Hallmark Family HD
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-family-us.png" group-title="USA Backup",Hallmark Family HD
 https://tvpass.org/live/HallmarkDrama/sd
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Movies & Mysterie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-mystery-us.png" group-title="USA Backup", Hallmark Movies & Mysterie
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
@@ -99,17 +99,17 @@ https://tvpass.org/live/IONTVEast/sd
 https://tvpass.org/live/LifetimeMoviesEast/sd
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="USA Backup", Lifetime Network
 https://tvpass.org/live/LifetimeEast/sd
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-toons-us.png" group-title="USA Backup",MeTV Toons (WJLP2) New Jersey
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="MeTV Toons (WJLP2) New Jersey" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-toons-us.png" group-title="USA Backup",MeTV Toons
 https://tvpass.org/live/metv-toons/sd
 #EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="METV USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-us.png" group-title="USA Backup", METV USA
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
-#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern" group-title="USA Backup",MoreMax Eastern
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="MoreMax Eastern" group-title="USA Backup",MoreMax
 https://tvpass.org/live/MoreMaxEast/sd
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="Motor Trend" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="USA Backup", Motor Trend
 https://tvpass.org/live/Motortrend/sd
 #EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" group-title="USA Backup",MovieMax (Max 6) East
 https://tvpass.org/live/MovieMaxEast/sd
-#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png" group-title="USA Backup",MTV 2 East
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV 2 East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png" group-title="USA Backup",MTV 2
 https://tvpass.org/live/mtv-2-east/sd
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title="USA Backup", MTV USA
 https://tvpass.org/live/MTVEast/sd
@@ -125,11 +125,11 @@ https://tvpass.org/live/NickelodeonEast/sd
 https://tvpass.org/live/NicktoonsEast/sd
 #EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="Oprah Winfrey Network (OWN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oprah-winfrey-network-us.png" group-title="USA Backup", Oprah Winfrey Network (OWN)
 https://tvpass.org/live/OWNEast/sd
-#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outdoor-channel-us.png" group-title="USA Backup",Outdoor Channel US
+#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outdoor-channel-us.png" group-title="USA Backup",Outdoor Channel US
 https://tvpass.org/live/OutdoorChannel/sd
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-us.png" group-title="USA Backup", Oxygen True Crime
 https://tvpass.org/live/OxygenEast/sd
-#EXTINF:-1 tvg-id="PBS.Eastern.us" tvg-name="PBS USA USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" group-title="USA Backup", PBS USA USA
+#EXTINF:-1 tvg-id="PBS.Stream.us2" tvg-name="PBS USA USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" group-title="USA Backup", PBS USA
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/reelz-us.png" group-title="USA Backup", Reelz Channel
 https://tvpass.org/live/Reelz/sd
@@ -513,7 +513,7 @@ plugin://plugin.video.dlv2/?title=FUSE+TV+USA&type=item&mode=play&link=%5B%5B%22
 plugin://plugin.video.dlv2/?title=Law+%26+Crime+Network&type=item&mode=play&link=%5B%5B%22Law+%26+Crime+Network%22%2C+%22%2Fstream%2Fstream-278.php%22%5D%5D&summary=Law+%26+Crime+Network
 #EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+ USA / Epix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png" group-title="USA", MGM+ USA / Epix
 plugin://plugin.video.dlv2/?title=MGM++USA+/+Epix&type=item&mode=play&link=%5B%5B%22MGM++USA+/+Epix%22%2C+%22%2Fstream%2Fstream-791.php%22%5D%5D&summary=MGM++USA+/+Epix
-#EXTINF:-1 tvg-id="PBS.Eastern.us" tvg-name="PBS USA USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" group-title="USA", PBS USA USA
+#EXTINF:-1 tvg-id="PBS.Stream.us2" tvg-name="PBS USA USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" group-title="USA", PBS USA USA
 plugin://plugin.video.dlv2/?title=PBS+USA+USA&type=item&mode=play&link=%5B%5B%22PBS+USA+USA%22%2C+%22%2Fstream%2Fstream-210.php%22%5D%5D&summary=PBS+USA+USA
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="https://images.tvtoday.de/sender/small/rtl.png" group-title="GERMAN", RTL DE
 plugin://plugin.video.dlv2/?title=RTL+DE&type=item&mode=play&link=%5B%5B%22RTL+DE%22%2C+%22%2Fstream%2Fstream-740.php%22%5D%5D&summary=RTL+DE
@@ -1571,6 +1571,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&id=65e9ced78145cb00084d6598&_is_live=1
 plugin://slyguy.pluto.tv.provider/?_=play&id=64f8a949f5b5e4000862467c&_is_live=1&_noresume=.pvr
 #EXTINF:-1 group-title="Pluto TV USA" tvg-chno="620" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-name="(Toons) Retro Kid" , (Toons) Retro Kid
 plugin://slyguy.pluto.tv.provider/?_=play&id=6408b41b83f58900081d91ad&_is_live=1&_noresume=.pvr
+
 
 
 
