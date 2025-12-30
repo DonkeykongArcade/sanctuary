@@ -1,6 +1,8 @@
-ABC USA ABC.News.Live.us2
+ABC News USA ABC.News.Live.us2
+ABC USA ABC.National.Feed.us2
 A&E USA A.and.E.HD.East.us2
 AMC USA AMC.HD.us2
+AMC+ USA AMC+.us2
 Animal Planet Animal.Planet.HD.us2
 Adult Swim AdultSwim.com.Cartoon.Network.us2
 AXS TV USA AXS.TV.us2
@@ -65,6 +67,7 @@ MTV2 MTV2:.Music.Television.HD.us2
 Motor Trend MOTORTREND.HD.us2
 METV USA Me.TV.Network.us2
 MeTV Toons MeTV.Toons.us2
+MeTV+  MeTV.Plus.us2
 MoreMax MoreMax.HD.us2
 National Geographic (NGC) National.Geographic.HD.us2
 NICK JR Nick.Jr.HD.us2
@@ -77,6 +80,7 @@ Outdoor Channel Outdoor.Channel.HD.us2
 Oxygen True Crime Oxygen.True.Crime.HD.us2
 Paramount Network Paramount.Network.HD.us2
 PBS USA USA PBS.Stream.us2
+PBS Kids PBS.KIDS.HD.us2
 POP TV USA POP.HD.us2
 Reelz Channel ReelzChannel.HD.us2
 SEC Network USA SEC.Network.HD.us2
