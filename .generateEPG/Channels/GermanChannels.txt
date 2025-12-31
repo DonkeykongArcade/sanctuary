@@ -47,7 +47,7 @@ RTL Up RTLup.de
 SAT 1 SAT.1.de
 SAT 1 emotions SAT.1.emotions.de
 SAT 1 Gold SAT.1.Gold.de
-Servus TV Servus.TV.Ã–sterreich.de
+Servus TV Servus.TV.Österreich.de
 Silverline Silverline.de
 Sixx sixx.de
 Sky Atlantic Sky.Atlantic.HD.de
@@ -62,7 +62,7 @@ Sky Krimi Sky.Krimi.de
 Sky Nature Sky.Nature.de
 Sky One Sky.One.de
 Sky Replay Sky.Replay.de
-Sky Showcase Sky.Showcase.de
+Sky Showcase sky.showcase.de
 SUPER RTL SUPER.RTL.de
 Spiegel Geschichte Spiegel.Geschichte.de
 SyFy SyFy.de
