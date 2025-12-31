@@ -15,7 +15,6 @@ epgUrls = [
         'https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz',
         'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
         'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz',
-        'https://github.com/michaz1988/michaz1988.github.io/releases/latest/download/guide.xml.gz',
         'https://i.mjh.nz/PlutoTV/us.xml.gz',
         'https://i.mjh.nz/PlutoTV/ca.xml.gz',
         'https://i.mjh.nz/PlutoTV/de.xml.gz'
@@ -36,10 +35,6 @@ with open(canadaGroup_file, 'r', encoding='utf-8') as canadaGroupfile:
 germanGroup_file = os.path.join(os.path.dirname(__file__), 'Channels/GermanChannels.txt')
 with open(germanGroup_file, 'r', encoding='utf-8') as germanGroupfile:
     germanGroup = list(line.strip() for line in germanGroupfile)
-
-michazGroup_file = os.path.join(os.path.dirname(__file__), 'Channels/MichazChannelsGitHub.txt')
-with open(michazGroup_file, 'r', encoding='utf-8') as michazGroupfile:
-    michazGroup = list(line.strip() for line in michazGroupfile)
 
 plutoTvGermanGroup_file = os.path.join(os.path.dirname(__file__), 'Channels/PlutoTVGerman.txt')
 with open(plutoTvGermanGroup_file, 'r', encoding='utf-8') as plutoTvGermanGroupfile:
@@ -87,9 +82,6 @@ def filter_and_build_epg(urls):
     for german in germanGroup:
         occurenceIndex = len(tuple(itertools.takewhile(lambda x: german not in x, germanGroup)))
         valid_tvg_channels.add(germanGroup[occurenceIndex].split()[-1])
-    for michaz in michazGroup:
-        occurenceIndex = len(tuple(itertools.takewhile(lambda x: michaz not in x, michazGroup)))
-        valid_tvg_channels.add(michazGroup[occurenceIndex])
     for plutoTvGerman in plutoTvGermanGroup:
         occurenceIndex = len(tuple(itertools.takewhile(lambda x: plutoTvGerman not in x, plutoTvGermanGroup)))
         valid_tvg_channels.add(plutoTvGermanGroup[occurenceIndex])
