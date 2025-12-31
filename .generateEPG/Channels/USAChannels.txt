@@ -22,6 +22,7 @@ CNN USA CNN.HD.us2
 Cinemax USA Cinemax.HD.us2
 Cinemax Action Cinemax.Action.us2
 Cinemax Hits Cinemax.Hits.us2
+Cinemax Classics Cinemax.Classics.us2
 Crime+ Investigation USA Crime.and.Investigation.Network.HD.us2
 Comet USA Comet.us2
 Cooking Channel USA Cooking.Channel.HD.us2
