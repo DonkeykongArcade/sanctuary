@@ -1,17 +1,89 @@
+13th street 13th.Street.Universal.de
 3sat DE 3sat.de
-Arte DE ARTE.de
-BBC 1 DE BBC.News.de
-BR Fernsehen DE BR.de
-HR Fernsehen DE HR.de
-Kabel Eins (Kabel 1) DE kabel.eins.de
-MDR DE MDR.de
-NDR DE NDR.de
-ProSieben (PRO7) DE ProSieben.de
-RTL DE RTL.de
-SAT.1 DE SAT.1.de
-Sixx DE sixx.de
-SWR DE SWR/SR.de
-SUPER RTL DE SUPER.RTL.de
-SR Fernsehen DE SWR/SR.de
-WDR DE WDR.de
-ZDF Info DE ZDFinfo.de
+Animal Planet Animal.Planet.de
+Anixe ANIXE.de
+ARD Alpha ARD.alpha.de
+Arte ARTE.de
+ATV ATV.de
+ATV 2 ATV.II.de
+Cartoon Network Cartoon.Network.de
+Comedy Central Comedy.Central.de
+Crime + Investigation CRIME.+.INVESTIGATION.de
+Curiosity Channel Curiosity.Channel.de
+Discovery Channel Discovery.HD.de
+DMAX DMAX.de
+Geo GEO.Television.de
+Heimatkanal Heimatkanal.de
+History The.HISTORY.Channel.de
+Nick Jr Nick.Jr..de
+Kabel 1 kabel.eins.de
+Kabel 1 Classics kabel.eins.classics.de
+Kabel 1 Doku kabel.eins.Doku.de
+KIKA KIKA.de
+Kinowelt KinoweltTV.de
+MTV MTV.de
+NTV ntv.de
+N24 N24.DOKU.de
+National Geographic Nat.Geo.HD.de
+National Geographic Wild NAT.GEO.WILD.de
+Nickelodeon nick.de
+ONE ONE.de
+ORF ORF.1.de
+ORF 2 ORF.2.de
+ORF 3 ORF.III.de
+Phoenix PHOENIX.de
+ProSieben ProSieben.de
+ProSieben Fun ProSieben.Fun.de
+ProSieben MAXX ProSieben.MAXX.de
+Puls 4 PULS.4.de
+Puls 24 tv-media.PULS.24.de
+Romance Romance.TV.de
+RTL RTL.de
+RTL 2 RTLZWEI.de
+RTL Crime RTL.Crime.de
+RTL Living RTL.Living.de
+RTL Passion RTL.Passion.de
+RTL Up RTLup.de
+SAT 1 SAT.1.de
+SAT 1 emotions SAT.1.emotions.de
+SAT 1 Gold SAT.1.Gold.de
+Servus TV Servus.TV.Ã–sterreich.de
+Silverline Silverline.de
+Sixx sixx.de
+Sky Atlantic Sky.Atlantic.HD.de
+Sky Cinema Action Sky.Cinema.Action.HD.de
+Sky Cinema Classics Sky.Cinema.Classics.HD.de
+Sky Cinema Family Sky.Cinema.Family.HD.de
+Sky Cinema Highlights Sky.Cinema.Highlights.HD.de
+Sky Cinema Premiere Sky.Cinema.Premiere.HD.de
+Sky Crime Sky.Crime.de
+Sky Documentaries Sky.Documentaries.de
+Sky Krimi Sky.Krimi.de
+Sky Nature Sky.Nature.de
+Sky One Sky.One.de
+Sky Replay Sky.Replay.de
+Sky Showcase Sky.Showcase.de
+SUPER RTL SUPER.RTL.de
+Spiegel Geschichte Spiegel.Geschichte.de
+SyFy SyFy.de
+tagesschau24 tagesschau24.de
+Tele 5 Tele.5.de
+TLC TLC.de
+Universal Channel Universal.Channel.HD.de
+VOX VOX.de
+VOXup VOXup.de
+Warner TV Comedy Warner.TV.Comedy.de
+Warner TV Film Warner.TV.Film.de
+Warner TV Serie Warner.TV.Serie.de
+WDR WDR.de
+WELT WELT.de
+Welt der Wunder TV Welt.der.Wunder.TV.de
+ZDF ZDF.de
+ZDFinfo ZDFinfo.de
+ZDFneo ZDFneo.de
+Das Erste Das.Erste.de
+Disney Channel Disney.Channel.de
+Nicktoons Nicktoons.de
+NITRO NITRO.de
+SRF 1 SRF.1.de
+SRF 2 SRF.zwei.de
