@@ -20,6 +20,8 @@ Comedy Central Comedy.Central.HD.us2
 Cartoon Network Cartoon.Network.HD.us2
 CNN USA CNN.HD.us2
 Cinemax USA Cinemax.HD.us2
+Cinemax Action Cinemax.Action.us2
+Cinemax Hits Cinemax.Hits.us2
 Crime+ Investigation USA Crime.and.Investigation.Network.HD.us2
 Comet USA Comet.us2
 Cooking Channel USA Cooking.Channel.HD.us2
@@ -34,6 +36,7 @@ Destination America Destination.America.HD.us2
 Disney JR Disney.Junior.HD.us2
 E! Entertainment Television E!.Entertainment.Television.HD.us2
 FOX USA Fox.News.Channel.HD.us2
+FM FM.HD.us2
 FUSE TV USA Fuse.HD.us2
 FX USA FX.HD.us2
 FXX USA FXX.HD.us2
@@ -45,6 +48,7 @@ Game Show Network Game.Show.Network.HD.us2
 Grit Channel Grit.us2
 The Hallmark Channel Hallmark.Channel.HD.us2
 Hallmark Movies & Mysterie Hallmark.Mystery.HD.us2
+HDNet Movies HDNet.Movies.us2
 HBO USA HBO.East.us2
 HBO2 USA HBO2.HD.us2
 HBO Comedy USA HBO.Comedy.HD.us2
@@ -56,12 +60,17 @@ Headline News HLN.HD.us2
 HGTV Home.and.Garden.Television.HD.us2
 Investigation Discovery (ID USA) Investigation.Discovery.HD.us2
 ION USA ION.Television.HD.us2
+ION+ ION.Plus.us2
 IFC TV USA IFC.HD.us2
 Law & Crime Network Law.and.Crime.us2
+Laff Laff.us2
 Lifetime Network Lifetime.HD.us2
 Lifetime Movies Network Lifetime.Real.Women.us2
 Magnolia Network Magnolia.Network.HD.us2
 MGM+ USA / Epix MGM+.HD.us2
+MGM+ Drive-In MGM+.Drive-In.us2
+MGM+ Hits MGM+.Hits.HD.us2
+MGM+ Marquee MGM+.Marquee.HD.us2
 MTV USA MTV.-.Music.Television.HD.us2
 MTV2 MTV2:.Music.Television.HD.us2
 Motor Trend MOTORTREND.HD.us2
@@ -75,17 +84,23 @@ NICK Nickelodeon.HD.us2
 Nick Music Nick.Music.us2
 Nicktoons Nicktoons.us2
 Nat Geo Wild USA National.Geographic.Wild.HD.us2
+Nosey Nosey.us2
 Oprah Winfrey Network (OWN) Oprah.Winfrey.Network.HD.us2
 Outdoor Channel Outdoor.Channel.HD.us2
+Outside Outside.Television.HD.us2
+Ovation Ovation.HD.us2
 Oxygen True Crime Oxygen.True.Crime.HD.us2
 Paramount Network Paramount.Network.HD.us2
 PBS USA USA PBS.Stream.us2
 PBS Kids PBS.KIDS.HD.us2
 POP TV USA POP.HD.us2
+PixL PixL.us2
 Reelz Channel ReelzChannel.HD.us2
 SEC Network USA SEC.Network.HD.us2
 The Hallmark Hallmark.Family.us2
 Science Channel Science.Channel.HD.us2
+Sony Movie Channel Sony.Movie.Channel.HD.us2
+Start TV Network Start.TV.Network.us2
 Showtime USA Paramount+.with.Showtime.HD.us2
 Showtime SHOxBET USA SHO.x.BET.HD.us2
 Showtime 2 USA (SHO2) USA Showtime.2.HD.us2
