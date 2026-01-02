@@ -3,7 +3,7 @@ name: run getEpgsall.py
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *" # every day at 08:00am
+    - cron: "0 15 * * *" # every day at 3:00pm
 
 jobs:
   build:
