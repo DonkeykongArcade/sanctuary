@@ -38,3 +38,9 @@ Sky Witness HD Sky.Witness.HD.uk
 Sky Atlantic Sky.Atlantic.HD.uk
 Sky Cinema Comedy UK Sky.Comedy.Cinema.uk
 Sky Cinema Drama UK Sky.Drama.HD.uk
+TNT Sports Ultimate TNT.Sports.Ultimate.HD.uk
+TNT Sports 1 TNT.Sports.1.HD.uk
+TNT Sports 2 TNT.Sports.2.HD.uk
+TNT Sports 3 TNT.Sports.3.HD.uk
+TNT Sports 4 TNT.Sports.4.HD.uk
+TNT Sports 5 TNT.Sports.5.HD.uk

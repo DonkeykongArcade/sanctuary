@@ -12,6 +12,8 @@ Crime + Investigation CRIME.+.INVESTIGATION.de
 Curiosity Channel Curiosity.Channel.de
 Discovery Channel Discovery.HD.de
 DMAX DMAX.de
+DAZN 1 BAR DAZN.1.de
+DAZN 2 BAR DAZN.2.de
 Geo GEO.Television.de
 Heimatkanal Heimatkanal.de
 History The.HISTORY.Channel.de

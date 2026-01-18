@@ -42,6 +42,7 @@ FUSE TV USA Fuse.HD.us2
 FX USA FX.HD.us2
 FXX USA FXX.HD.us2
 Freeform Freeform.HD.us2
+Fight Network Fight.Network.us2
 FX Movie Channel FX.Movie.Channel.HD.us2
 FYI FYI.Channel.HD.us2
 FETV - Family Entertainment Television Family.Entertainment.Television.us2
