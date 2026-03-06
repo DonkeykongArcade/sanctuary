@@ -1,7 +1,56 @@
-CTV Canada CTV.Toronto.HD.ca2
-CTV 2 Canada CTV.Two.-.Toronto.ca2
-Citytv Citytv.Toronto.HD.ca2
-CBC CA CBC.Toronto.HD.ca2
-Global CA Global.Toronto.ca2
-TVO CA TVO.ca2
-YTV CA YTV.ca2
+A&E A.and.E.Canada.HD.ca2
+APTN Aboriginal.Peoples.Television.Network.HD.ca2
+AMC AMC.Canada.HD.ca2
+Bravo Bravo.Canada.HD.ca2
+Cartoon Network Cartoon.Network.HD.Canada.ca2
+CBC Ottawa CBC.Ottawa.HD.ca2
+CHCH CHCH-DT.ca2
+CityTv CityTv.ca2
+Cottage Life Cottage.Life.ca2
+Crave1 Crave1.HD.ca2
+Crave2 Crave2.HD.ca2
+Crave3 Crave3.HD.ca2
+Crave4 Crave4.ca2
+CRIME & INVESTIGATION Crime.Plus.Investigation.SD.ca2
+CTV Comedy Channel CTV.COMEDY.CHANNEL.ca2
+CTV Drama Channel CTV.DRAMA.CHANNEL.HD.ca2
+CTV Life Channel CTV.LIFE.CHANNEL.HD.ca2
+CTV Sci-fi Channel CTV.SCI-FI.CHANNEL.HD.ca2
+CTV Two Ottawa CTV.Two.-.Ottawa.ca2
+CTV Wild Channel CTV.Wild.HD.ca2
+DejaView Deja.View.ca2
+Discovery Channel Discovery.Channel.ca2
+Disney Channel Disney.Channel.Canada.HD.ca2
+Documentary Channel documentary.HD.ca2
+DTour DTour.HD.ca2
+E! Entertainment E!.Entertainment.Television.Canada.HD.ca2
+Food Network Food.Network.ca2
+Game Show Network Game.Show.Network.HD.ca2
+GameTV GameTV.Canada.ca2
+Global Toronto Global.Toronto.HD.ca2
+HBO 1 HBO.Canada.1.HD.ca2
+History History.ca2
+History 2 HISTORY.2.ca2
+HLN HLN.HD.ca2
+HGTV Home.and.Garden.Television.ca2
+Lifetime Lifetime.HD.(Canada).ca2
+Magnolia Network Magnolia.Network.ca2
+Makeful Makeful.TV.SD.ca2
+Max Max.ca2
+MovieTime MovieTime.HD.ca2
+Much Music Much.Music.HD.ca2
+National Geographic Wild National.Geographic.Wild.Canada.HD.ca2
+Showcase Showcase.Canada.HD.ca2
+Silver Screen Classics Silver.Screen.Classics.ca2
+SLICE SLICE.HD.ca2
+STARZ 1 STARZ.1.HD.ca2
+STARZ 2 STARZ.2.ca2
+Super Channel Fuse Super.Channel.Fuse.HD.ca2
+Super Channel Heart & Home Super.Channel.Heart.and.Home.HD.ca2
+Super Channel Vault Super.Channel.Vault.HD.ca2
+Super Channel Ginx Super.Channel.Ginx.HD.ca2
+The Weather Network The.Weather.Network.Canada.HD.ca2
+TCM Turner.Classic.Movies.Canada.HD.ca2
+WGN WGN-DT.ca2
+Yes TV YesTV.ca2
+YTV YTV.HD.ca2
