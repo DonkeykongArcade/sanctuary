@@ -40,6 +40,7 @@ Max Max.ca2
 MovieTime MovieTime.HD.ca2
 Much Music Much.Music.HD.ca2
 National Geographic Wild National.Geographic.Wild.Canada.HD.ca2
+National Geographic National.Geographic.Canada.HD.ca2
 Showcase Showcase.Canada.HD.ca2
 Silver Screen Classics Silver.Screen.Classics.ca2
 SLICE SLICE.HD.ca2
@@ -48,7 +49,8 @@ STARZ 2 STARZ.2.ca2
 Super Channel Fuse Super.Channel.Fuse.HD.ca2
 Super Channel Heart & Home Super.Channel.Heart.and.Home.HD.ca2
 Super Channel Vault Super.Channel.Vault.HD.ca2
-Super Channel Ginx Super.Channel.Ginx.HD.ca2
+Super Channel Quest Super.Channel.Quest.HD.ca2
+Super Channel  Super.Channel.Ginx.HD.ca2
 The Weather Network The.Weather.Network.Canada.HD.ca2
 TCM Turner.Classic.Movies.Canada.HD.ca2
 WGN WGN-DT.ca2

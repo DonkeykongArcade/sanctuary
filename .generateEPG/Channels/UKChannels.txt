@@ -16,6 +16,7 @@ ITV 3 UK ITV3.HD.uk
 ITV 4 UK ITV4.HD.uk
 MTV UK MTV.HD.uk
 MUTV UK MUTV.HD.uk
+Ginx GINXeSportsTV.uk
 S4C UK S4C.uk
 Sky Cinema Premiere UK SkyPremiereHD.uk
 Sky Cinema Select UK Sky.Cinema.Select.uk

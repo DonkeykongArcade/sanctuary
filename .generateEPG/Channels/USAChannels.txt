@@ -133,7 +133,6 @@ Travel Channel The.Travel.Channel.HD.us2
 TruTV USA truTV.HD.us2
 TVLAND TV.Land.HD.us2
 TCM USA Turner.Classic.Movies.HD.us2
-TMC Channel USA The.Movie.Channel.HD.us2
 The Food Network Food.Network.HD.us2
 The Weather Channel The.Weather.Channel.HD.us2
 TeenNick Teen.Nick.us2
