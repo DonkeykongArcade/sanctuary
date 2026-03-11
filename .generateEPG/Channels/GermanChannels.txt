@@ -14,6 +14,7 @@ Discovery Channel Discovery.HD.de
 DMAX DMAX.de
 DAZN 1 BAR DAZN.1.de
 DAZN 2 BAR DAZN.2.de
+eSportsONE eSportsONE.de
 Geo GEO.Television.de
 Heimatkanal Heimatkanal.de
 History The.HISTORY.Channel.de

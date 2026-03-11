@@ -4,7 +4,7 @@ A&E USA A.and.E.HD.East.us2
 AMC USA AMC.HD.us2
 AMC+ USA AMC+.us2
 Animal Planet Animal.Planet.HD.us2
-Adult Swim AdultSwim.com.Cartoon.Network.us2
+Adult Swim Adult.On.Demand.us2
 AXS TV USA AXS.TV.us2
 Boomerang Boomerang.us2
 BBC America (BBCA) BBC.America.HD.us2
@@ -63,11 +63,13 @@ HGTV Home.and.Garden.Television.HD.us2
 Investigation Discovery (ID USA) Investigation.Discovery.HD.us2
 ION USA ION.Television.HD.us2
 ION+ ION.Plus.us2
+ION Mystery ION.Mystery.us2
 IFC TV USA IFC.HD.us2
 Law & Crime Network Law.and.Crime.us2
 Laff Laff.us2
 Lifetime Network Lifetime.HD.us2
-Lifetime Movies Network Lifetime.Real.Women.us2
+Lifetime Real Women Lifetime.Real.Women.us2
+Lifetime Movies Network LMN.HD.us2
 Magnolia Network Magnolia.Network.HD.us2
 MGM+ USA / Epix MGM+.HD.us2
 MGM+ Drive-In MGM+.Drive-In.us2
@@ -83,7 +85,6 @@ MoreMax MoreMax.HD.us2
 National Geographic (NGC) National.Geographic.HD.us2
 NICK JR Nick.Jr.HD.us2
 NICK Nickelodeon.HD.us2
-Nick Music Nick.Music.us2
 Nicktoons Nicktoons.us2
 Nat Geo Wild USA National.Geographic.Wild.HD.us2
 Nosey Nosey.us2
@@ -131,7 +132,6 @@ TLC TLC.HD.(US).us2
 TNT USA TNT.HD.us2
 Travel Channel The.Travel.Channel.HD.us2
 TruTV USA truTV.HD.us2
-TVLAND TV.Land.HD.us2
 TCM USA Turner.Classic.Movies.HD.us2
 The Food Network Food.Network.HD.us2
 The Weather Channel The.Weather.Channel.HD.us2

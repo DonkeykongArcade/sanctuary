@@ -1,5 +1,4 @@
-5 USA 5.USA.uk
-BBC News Channel HD BBC.NEWS.HD.uk
+Animal Planet Animal.Plnt+1.uk
 BBC One UK BBC.One.EastHD.uk
 BBC Two UK BBC.Two.HD.uk
 BBC Three UK BBC.Three.HD.uk
@@ -15,9 +14,7 @@ ITV 2 UK ITV2.HD.uk
 ITV 3 UK ITV3.HD.uk
 ITV 4 UK ITV4.HD.uk
 MTV UK MTV.HD.uk
-MUTV UK MUTV.HD.uk
 Ginx GINXeSportsTV.uk
-S4C UK S4C.uk
 Sky Cinema Premiere UK SkyPremiereHD.uk
 Sky Cinema Select UK Sky.Cinema.Select.uk
 Sky Cinema Hits UK Sky.Cinema.Hits.HD.uk
@@ -34,7 +31,6 @@ Sky Showcase UK SkyShowcaseHD.uk
 Sky Arts UK Sky.Arts.HD.uk
 Sky Comedy UK Sky.Comedy.HD.uk
 Sky Crime Sky.Crime.HD.uk
-Sky History Sky.HistoryHD.uk
 Sky Witness HD Sky.Witness.HD.uk
 Sky Atlantic Sky.Atlantic.HD.uk
 Sky Cinema Comedy UK Sky.Comedy.Cinema.uk
