@@ -54,5 +54,6 @@ Super Channel  Super.Channel.Ginx.HD.ca2
 The Weather Network The.Weather.Network.Canada.HD.ca2
 TCM Turner.Classic.Movies.Canada.HD.ca2
 WGN WGN-DT.ca2
+W Network W.Network.HD.ca2
 Yes TV YesTV.ca2
 YTV YTV.HD.ca2
