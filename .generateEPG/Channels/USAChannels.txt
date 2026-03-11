@@ -4,7 +4,7 @@ A&E USA A.and.E.HD.East.us2
 AMC USA AMC.HD.us2
 AMC+ USA AMC+.us2
 Animal Planet Animal.Planet.HD.us2
-Adult Swim Adult.On.Demand.us2
+Adult Swim AdultSwim.com.Cartoon.Network.us2
 AXS TV USA AXS.TV.us2
 Boomerang Boomerang.us2
 BBC America (BBCA) BBC.America.HD.us2

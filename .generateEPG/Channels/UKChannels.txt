@@ -3,6 +3,7 @@ BBC One UK BBC.One.EastHD.uk
 BBC Two UK BBC.Two.HD.uk
 BBC Three UK BBC.Three.HD.uk
 BBC Four UK BBC.Four.HD.uk
+Cartoon Network Cartoon.Net.HD.uk
 Channel 4 UK Channel.4.HD.uk
 Channel 5 UK Channel.5.HD.uk
 Dave U.and.Dave.HD.uk
