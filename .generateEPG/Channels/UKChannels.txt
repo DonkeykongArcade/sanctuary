@@ -10,6 +10,7 @@ Dave U.and.Dave.HD.uk
 E4 Channel E4.HD.uk
 Film4 UK Film4.HD.uk
 Gold UK U.and.GOLD.HD.uk
+HGTV HGTV.uk
 ITV 1 UK ITV1.HD.uk
 ITV 2 UK ITV2.HD.uk
 ITV 3 UK ITV3.HD.uk
@@ -36,6 +37,7 @@ Sky Witness HD Sky.Witness.HD.uk
 Sky Atlantic Sky.Atlantic.HD.uk
 Sky Cinema Comedy UK Sky.Comedy.Cinema.uk
 Sky Cinema Drama UK Sky.Drama.HD.uk
+TLC TLC.HD.uk
 TNT Sports Ultimate TNT.Sports.Ultimate.HD.uk
 TNT Sports 1 TNT.Sports.1.HD.uk
 TNT Sports 2 TNT.Sports.2.HD.uk
