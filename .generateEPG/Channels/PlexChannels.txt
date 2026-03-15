@@ -1,0 +1,5 @@
+ANIMExHIDIVE plex.tv.ANIME.x.HIDIVE.plex
+FilmRise Anime plex.tv.FilmRise.Anime.plex
+Anime 24/7 plex.tv.Anime.24/7.plex
+Crunchyroll plex.tv.Crunchyroll.plex
+RetroCrush plex.tv.RetroCrush.plex
