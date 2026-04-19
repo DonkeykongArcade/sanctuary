@@ -40,6 +40,7 @@ Sky Cinema Drama UK Sky.Drama.HD.uk
 TLC TLC.HD.uk
 TNT Sports Ultimate TNT.Sports.Ultimate.HD.uk
 TNT Sports 1 TNT.Sports.1.HD.uk
+Really Really.uk
 TNT Sports 2 TNT.Sports.2.HD.uk
 TNT Sports 3 TNT.Sports.3.HD.uk
 TNT Sports 4 TNT.Sports.4.HD.uk
