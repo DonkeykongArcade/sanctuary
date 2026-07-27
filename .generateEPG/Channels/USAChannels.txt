@@ -62,7 +62,6 @@ Headline News HLN.HD.us2
 HGTV Home.and.Garden.Television.HD.us2
 Investigation Discovery (ID USA) Investigation.Discovery.HD.us2
 ION USA ION.Television.HD.us2
-ION+ ION.Plus.us2
 ION Mystery ION.Mystery.us2
 IFC TV USA IFC.HD.us2
 Law & Crime Network Law.and.Crime.us2
@@ -95,7 +94,6 @@ Ovation Ovation.HD.us2
 Oxygen True Crime Oxygen.True.Crime.HD.us2
 Paramount Network Paramount.Network.HD.us2
 PBS USA USA PBS.Stream.us2
-PBS Kids PBS.KIDS.HD.us2
 POP TV USA POP.HD.us2
 PixL PixL.us2
 Reelz Channel ReelzChannel.HD.us2
