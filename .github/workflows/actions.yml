@@ -3,23 +3,23 @@ name: run getEpgsall.py
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 09 * * *" # jeden Tag um 09:00 Uhr UTC
+    - cron: "0 09 * * *" # Runs daliy at 09:00 UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
     
-    # Verhindert Berechtigungsprobleme beim Push und Löschen von Runs
+    # Prevents permission issues when pushing and clearing runs
     permissions:
       contents: write
       actions: write
 
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v4 # Aktualisiert auf v4 (Node 20+)
+        uses: actions/checkout@v4 # Updated to v4 (Node 20+)
 
       - name: setup python
-        uses: actions/setup-python@v5 # Aktualisiert auf v5 (Node 20+)
+        uses: actions/setup-python@v5 # Updated to v5 (Node 20+)
         with:
           python-version: '3.10'
           
