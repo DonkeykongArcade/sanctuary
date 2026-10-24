@@ -3,27 +3,32 @@ name: run getEpgsall.py
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 09 * * *" # every day at 09:00am
+    - cron: "0 09 * * *" # jeden Tag um 09:00 Uhr UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
+    
+    # Verhindert Berechtigungsprobleme beim Push und Löschen von Runs
+    permissions:
+      contents: write
+      actions: write
 
+    steps:
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+        uses: actions/checkout@v4 # Aktualisiert auf v4 (Node 20+)
 
       - name: setup python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Aktualisiert auf v5 (Node 20+)
         with:
-          python-version: '3.10' # install the python version needed
+          python-version: '3.10'
           
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
           pip install requests
           
-      - name: execute py script # run getEpgsall.py
+      - name: execute py script
         run: python -c "import os; os.chdir('.generateEPG'); import getEpgsall" 
           
       - name: commit files
@@ -34,14 +39,13 @@ jobs:
           git diff-index --quiet HEAD || (git commit -a -m "update epg" --allow-empty)
           
       - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
+        run: |
+          git push origin main # Nativer Push ohne fehlerhafte Drittanbieter-Action
+
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@v2
         with:
-          token:  ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
           retain_days: 0
           keep_minimum_runs: 0
