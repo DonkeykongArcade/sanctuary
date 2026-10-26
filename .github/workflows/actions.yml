@@ -3,7 +3,7 @@ name: run getEpgsall.py
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 09 * * *" # Runs daliy at 09:00 UTC
+    - cron: "0 09 * * *" # Runs daily at 09:00 UTC
 
 jobs:
   build:
@@ -16,10 +16,10 @@ jobs:
 
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v4 # Updated to v4 (Node 20+)
+        uses: actions/checkout@v6 # Updated to support Node 24 natively
 
       - name: setup python
-        uses: actions/setup-python@v5 # Updated to v5 (Node 20+)
+        uses: actions/setup-python@v6 # Updated to support Node 24 natively
         with:
           python-version: '3.10'
           
